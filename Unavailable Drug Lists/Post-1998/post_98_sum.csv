@@ -1,0 +1,811 @@
+,Name,appNo,appType,approvDate,Company,marketStat,reviewAvailable,reviewPageLink,medReviewAvailable,statReviewAvailable,sumReviewAvailable,PatientPopulationAltered,PPAReviewAvailable,PPAReviewLink
+0,AZULFIDINE EN-TABS,21243,NDA,2000-08-18 00:00:00,PHARMACIA UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21243_Azulfidine.cfm,True,True,False,False,False,-
+5,BYETTA,21773,NDA,2005-04-28 00:00:00,ASTRAZENECA AB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021773_ByettaTOC.cfm,True,True,False,False,False,-
+107,BUSULFEX,20954,NDA,1999-02-04 00:00:00,OTSUKA PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20954.cfm,True,True,False,False,False,-
+343,BRAVELLE,21484,NDA,2002-12-19 00:00:00,FERRING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021484_bravelle.cfm,True,True,False,False,False,-
+344,BRAVELLE,21289,NDA,2002-05-06 00:00:00,FERRING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-289_Bravelle.cfm,True,True,False,False,False,-
+354,BONIVA,21858,NDA,2006-01-06 00:00:00,ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021858s000TOC.cfm,True,True,False,False,False,-
+413,BIDIL,20727,NDA,2005-06-23 00:00:00,ARBOR PHARMS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/020727_s000_BidilTOC.cfm,True,True,False,False,False,-
+439,BEXXAR,125011,BLA,2003-06-27 00:00:00,SMITHKLINE BEECHAM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/125011s000TOC.cfm,True,True,False,False,False,-
+442,BEVESPI AEROSPHERE,208294,NDA,2016-04-25 00:00:00,PEARL THERAPS INC,Prescription,False,-,-,-,-,False,False,-
+517,BETAPACE AF,21151,NDA,2000-02-22 00:00:00,COVIS PHARMA SARL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/021151_s000_BetapaceAFTOC.cfm,False,False,False,False,False,-
+649,BENZACLIN,50756,NDA,2000-12-21 00:00:00,VALEANT BERMUDA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/50-756_Benzaclin.cfm,True,True,False,False,False,-
+658,BENICAR HCT,21532,NDA,2003-06-05 00:00:00,DAIICHI SANKYO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021532_benicar_toc.cfm,True,True,False,False,False,-
+660,BENICAR,21286,NDA,2002-04-25 00:00:00,DAIICHI SANKYO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-286_Benicar.cfm,True,True,False,True,False,-
+707,BASAGLAR,205692,NDA,2015-12-16 00:00:00,ELI LILLY AND CO,Prescription,False,-,-,-,-,False,False,-
+710,BARACLUDE,21798,NDA,2005-03-29 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/21797_21798_BaracludeTOC.cfm,True,True,False,True,False,-
+811,AZOR,22100,NDA,2007-09-26 00:00:00,DAIICHI SANKYO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022100_azor_toc.cfm,True,True,False,False,False,-
+812,AZOPT,20816,NDA,1998-04-01 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020816_azopt.cfm,True,True,False,False,False,-
+827,AZILECT,21641,NDA,2006-05-16 00:00:00,TEVA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021641s000_AzilectTOC.cfm,True,True,False,False,False,-
+881,AZASITE,50810,NDA,2007-04-27 00:00:00,OAK PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/050810_azasite_toc.cfm,True,True,False,False,False,-
+886,AZACITIDINE,208216,NDA,2016-04-29 00:00:00,ACTAVIS LLC,Prescription,False,-,-,-,-,False,False,-
+897,AXERT,21001,NDA,2001-05-07 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21001_Axert.cfm,True,True,False,True,False,-
+900,AVODART,21319,NDA,2001-11-20 00:00:00,GLAXOSMITHKLINE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21319_Duagen.cfm,True,True,False,False,False,-
+902,AVITA,20400,NDA,1998-01-29 00:00:00,MYLAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20400.cfm,True,True,False,False,False,-
+908,AVELOX IN SODIUM CHLORIDE 0.8% IN PLASTIC CONTAINER,21277,NDA,2001-11-30 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21277_Avelox.cfm,True,True,False,False,False,-
+909,AVELOX,21334,NDA,2001-04-27 00:00:00,BAYER PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-085S10_Avelox.cfm,True,False,False,False,False,-
+910,AVELOX,21085,NDA,1999-12-10 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21-085_Avelox.cfm,True,True,False,False,False,-
+913,AVASTIN,125085,BLA,2004-02-26 00:00:00,GENENTECH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/STN-125085_Avastin.cfm,True,True,False,False,False,-
+916,AVANDIA,21071,NDA,1999-05-25 00:00:00,SB PHARMCO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21071_Avandia.cfm,True,True,False,True,False,-
+919,AVAGE,21184,NDA,2000-09-29 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-184_Tazorac.cfm,True,True,False,False,False,-
+920,AVAGARD,21074,NDA,2001-06-07 00:00:00,3M,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-074_Avagard.cfm,True,True,False,False,False,-
+921,AUVI-Q,201739,NDA,2012-08-10 00:00:00,KALEO INC,Prescription,False,-,-,-,-,False,False,-
+924,AUGMENTIN XR,50785,NDA,2002-09-25 00:00:00,DR REDDYS LABS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/50785_AugmentinXR.cfm,True,True,False,False,False,-
+925,AUGMENTIN ES-600,50755,NDA,2001-06-22 00:00:00,DR REDDYS LABS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/50755_Augmentin.cfm,True,True,False,True,False,-
+940,ATROVENT HFA,21527,NDA,2004-11-17 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021527s000TOC.cfm,True,True,False,False,False,-
+944,ATROPINE SULFATE ANSYR PLASTIC SYRINGE,21146,NDA,2001-07-09 00:00:00,HOSPIRA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-146_Atropine.cfm,True,False,False,False,False,-
+952,ATRIPLA,21937,NDA,2006-07-12 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021937TOC2.cfm,True,False,False,False,False,-
+953,ATRIDOX,50751,NDA,1998-09-03 00:00:00,TOLMAR,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/50751.cfm,True,True,False,False,False,-
+962,ATRALIN,22070,NDA,2007-07-26 00:00:00,DOW PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022070_atralin_toc.cfm,True,True,False,False,False,-
+1054,ATACAND HCT,21093,NDA,2000-09-05 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-093_AtacandHCT.cfm,True,True,False,False,False,-
+1055,ATACAND,20838,NDA,1998-06-04 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20838_Atacand.cfm,True,True,False,True,False,-
+1067,ASMANEX TWISTHALER,21067,NDA,2005-03-30 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021067s000_AsmanexTOC.cfm,True,True,False,True,False,-
+1084,ARRANON,21877,NDA,2005-10-28 00:00:00,NOVARTIS PHARMS CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021877_s000_ArranonTOC.cfm,True,True,False,False,False,-
+1085,AROMASIN,20753,NDA,1999-10-21 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-753_Aromasin.cfm,True,False,False,False,False,-
+1095,ARIXTRA,21345,NDA,2001-12-07 00:00:00,MYLAN IRELAND LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-345_Arixtra.cfm,True,True,False,False,False,-
+1155,ARIMIDEX,22214,NDA,2008-12-05 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022214_arimidex_toc.cfm,True,True,False,False,False,-
+1159,ARICEPT ODT,21720,NDA,2004-10-18 00:00:00,EISAI INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021720_s000_AriceptTOC.cfm,True,False,False,False,False,-
+1163,ARGATROBAN IN SODIUM CHLORIDE,22485,NDA,2011-05-09 00:00:00,SANDOZ,Prescription,False,-,-,-,-,False,False,-
+1173,ARGATROBAN,20883,NDA,2000-06-30 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-883_Acova.cfm,True,True,False,False,False,-
+1179,ARESTIN,50781,NDA,2001-02-16 00:00:00,ORAPHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/50781_Arestin.cfm,True,True,False,False,False,-
+1180,AREDIA,20927,NDA,1998-09-22 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020927.cfm,True,False,False,False,False,-
+1184,ARAVA,20905,NDA,1998-09-10 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20905_arava.cfm,True,True,False,True,False,-
+1204,APTIVUS,21814,NDA,2005-06-22 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/21814_000_AptivusTOC.cfm,True,True,False,False,False,-
+1217,APIDRA SOLOSTAR,21629,NDA,2004-04-16 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-629_Apidra.cfm,True,True,False,True,False,-
+1228,ANTHELIOS SX,21502,NDA,2006-07-21 00:00:00,LOREAL USA,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021502s000_AntheliosTOC.cfm,True,False,False,False,False,-
+1230,ANTHELIOS 20,21471,NDA,2006-10-05 00:00:00,LOREAL USA,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021471s000TOC.cfm,True,False,False,False,False,-
+1233,ANTARA (MICRONIZED),21695,NDA,2004-11-30 00:00:00,LUPIN ATLANTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021695s000_AntaraTOC.cfm,True,False,False,False,False,-
+1249,ANGIOMAX,20873,NDA,2000-12-15 00:00:00,THE MEDICINES CO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20873_Angiomax.cfm,True,True,False,False,False,-
+1251,ANGELIQ,21355,NDA,2005-09-28 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021355s000TOC.cfm,True,True,False,False,False,-
+1264,ANDROGEL,21015,NDA,2000-02-28 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-015_AndroGel.cfm,True,False,False,False,False,-
+1308,AMRIX,21777,NDA,2007-02-01 00:00:00,IVAX INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021777s000TOC.cfm,True,True,False,False,False,-
+1392,AMPHADASE,21665,NDA,2004-10-26 00:00:00,AMPHASTAR PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-665_Amphadase.cfm,True,False,False,False,False,-
+1393,AMOXIL,50754,NDA,1998-07-10 00:00:00,DR REDDYS LABS INC,Prescription,False,-,-,-,-,False,False,-
+1394,AMOXIL,50760,NDA,1999-04-15 00:00:00,DR REDDYS LABS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/050760_s000_AmoxilTOC.cfm,True,False,False,False,False,-
+1488,AMMONUL,20645,NDA,2005-02-17 00:00:00,MEDICIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/020645s000TOC.cfm,True,False,False,False,False,-
+1525,AMMONIA N 13,22119,NDA,2007-08-23 00:00:00,FEINSTEIN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/22119s000TOC.cfm,True,False,False,False,False,-
+1713,AMJEVITA,761024,BLA,2016-09-23 00:00:00,AMGEN INC,Prescription,False,-,-,-,-,False,False,-
+1737,AMITIZA,21908,NDA,2006-01-31 00:00:00,SUCAMPO PHARMA LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021908s000_AmitizaTOC.cfm,True,True,False,False,False,-
+1953,AMERGE,20763,NDA,1998-02-10 00:00:00,GLAXOSMITHKLINE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20763_Amerge.cfm,True,True,False,False,False,-
+1954,AMELUZ,208081,NDA,2016-05-10 00:00:00,BIOFRONTERA,Prescription,False,-,-,-,-,False,False,-
+1964,AMBIEN CR,21774,NDA,2005-09-02 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021774s000_AmbienTOC.cfm,True,True,False,False,False,-
+2000,ALTABAX,22055,NDA,2007-04-12 00:00:00,AQUA PHARMS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022055s000TOC.cfm,True,True,False,False,False,-
+2004,ALREX,20803,NDA,1998-03-09 00:00:00,BAUSCH AND LOMB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020803_alrex_toc.cfm,True,False,False,False,False,-
+2048,ALPHAGAN P,21770,NDA,2005-08-19 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021770s000TOC.cfm,True,True,False,False,False,-
+2049,ALPHAGAN P,21262,NDA,2001-03-16 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-262_AlphaganP.cfm,True,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-490s007_Alphagan.cfm
+2061,ALOXI,21372,NDA,2003-07-25 00:00:00,HELSINN HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-372_Alox.cfm,True,True,False,False,False,-
+2062,ALORA,21310,NDA,2002-04-05 00:00:00,WATSON LABS,Prescription,False,-,-,-,-,False,False,-
+2067,ALOCRIL,21009,NDA,1999-12-08 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/021009_Alocril.cfm,True,True,False,False,False,-
+2087,ALLI,21887,NDA,2007-02-07 00:00:00,GLAXOSMITHKLINE CONS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021887s000TOC.cfm,True,True,False,False,False,-
+2099,ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION,21704,NDA,2004-10-19 00:00:00,SANOFI AVENTIS US,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021704s000_AllegraTOC.cfm,True,False,False,False,False,-
+2101,ALLEGRA ALLERGY,20872,NDA,2000-02-25 00:00:00,SANOFI AVENTIS US,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-872_Allegra.cfm,True,True,False,False,False,-
+2106,ALLEGRA,21963,NDA,2006-10-16 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021963TOC.cfm,True,False,False,False,False,-
+2111,ALINIA,21818,NDA,2005-06-16 00:00:00,ROMARK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021818s000_021498s003TOC.cfm,True,True,False,False,False,-
+2112,ALIMTA,21677,NDA,2004-08-19 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021677s000_AlimtaTOC.cfm,True,True,False,False,False,-
+2113,ALIMTA,21462,NDA,2004-02-04 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-462_Alimta.cfm,True,True,False,False,False,-
+2114,ALINIA,21498,NDA,2002-11-22 00:00:00,ROMARK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-498_Alinia.cfm,True,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021818s000_021498s003TOC.cfm
+2115,ALINIA,21497,NDA,2004-07-21 00:00:00,ROMARK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-497_21-498s001_Alinia.cfm,True,True,False,False,False,-
+2128,ALEVE-D SINUS & COLD,21076,NDA,1999-11-29 00:00:00,BAYER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21-076_Aleve.cfm,True,True,False,False,False,-
+2248,ALAWAY,21996,NDA,2006-12-01 00:00:00,BAUSCH AND LOMB,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021996_alaway_toc.cfm,True,False,False,False,False,-
+2249,ALAVERT,21375,NDA,2002-12-19 00:00:00,PFIZER,Over-the-counter,False,-,-,-,-,False,False,-
+2256,AKTIPAK,50769,NDA,2000-11-27 00:00:00,CUTANEA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/50-769_Benamycin.cfm,True,True,False,False,False,-
+2273,AGGRENOX,20884,NDA,1999-11-22 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20884_Aggrenox.cfm,True,True,False,False,False,-
+2288,AEROSPAN HFA,21247,NDA,2006-01-27 00:00:00,MEDA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021247_aerospan_toc.cfm,True,True,False,False,False,-
+2296,ADZENYS XR-ODT,204326,NDA,2016-01-28 00:00:00,NEOS THERAPS,Prescription,False,-,-,-,-,False,False,-
+2297,ADVIL PM,21394,NDA,2005-12-21 00:00:00,PFIZER,Over-the-counter,True,"http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021393,021394_AdvilTOC.cfm",True,True,False,False,False,-
+2301,ADVIL COLD AND SINUS,21374,NDA,2002-05-30 00:00:00,PFIZER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-374_Ibuprofen.cfm,True,False,False,False,False,-
+2303,ADVIL ALLERGY SINUS,21441,NDA,2002-12-19 00:00:00,PFIZER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-441_Advil.cfm,True,True,False,False,False,-
+2309,ADVAIR DISKUS 500/50,21077,NDA,2000-08-24 00:00:00,GLAXO GRP LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21077_AdvairDiskus.cfm,True,True,False,True,False,-
+2319,ADRENACLICK,20800,NDA,2003-05-30 00:00:00,AMEDRA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/20-800_Twinject.cfm,True,False,False,True,False,-
+2348,ADDERALL XR 5,21303,NDA,2001-10-11 00:00:00,SHIRE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21303_Adderall.cfm,True,True,False,True,False,-
+2356,ADCIRCA,22332,NDA,2009-05-22 00:00:00,ELI LILLY CO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022332_adcirca_toc.cfm,True,False,False,False,False,-
+2374,ACZONE,207154,NDA,2016-02-24 00:00:00,ALLERGAN INC,Prescription,False,-,-,-,-,False,False,-
+2376,ACZONE,21794,NDA,2005-07-07 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021794s000TOC.cfm,True,True,False,False,False,-
+2475,ACULAR LS,21528,NDA,2003-05-30 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21528_Acular.cfm,True,True,False,False,False,-
+2477,ACTOS,21073,NDA,1999-07-15 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/021073A_Actos.cfm,True,True,False,False,False,-
+2478,ACTOPLUS MET XR,22024,NDA,2009-05-12 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/022024_actoplus_met_xr_toc.cfm,True,False,False,False,False,-
+2480,ACTOPLUS MET,21842,NDA,2005-08-29 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021842s000TOC.cfm,True,False,False,False,False,-
+2481,ACTONEL,20835,NDA,1998-03-27 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20835_Actonel.cfm,True,True,False,False,False,-
+2482,ACTIVELLA,22001,NDA,2006-12-29 00:00:00,NOVO NORDISK INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022001s000TOC.cfm,True,True,False,False,False,-
+2483,ACTIVELLA,21103,NDA,2000-04-11 00:00:00,NOVO NORDISK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-103_Activella.cfm,True,True,False,False,False,-
+2484,ACTIVELLA,20907,NDA,1998-11-18 00:00:00,AMNEAL PHARMS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20907.cfm,True,True,False,False,False,-
+2487,ACTIQ,20747,NDA,1998-11-04 00:00:00,CEPHALON,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20747_Actiq.cfm,True,True,False,True,False,-
+2490,ACTIMMUNE,103836,BLA,1999-02-25 00:00:00,VIDARA THERAPEUTICS RESEARCH LTD,Prescription,False,-,-,-,-,False,False,-
+2516,ACIPHEX,21456,NDA,2002-11-08 00:00:00,EISAI MEDCL RES,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021456_aciphex.cfm,True,True,False,False,False,-
+2702,ACETADOTE,21539,NDA,2004-01-23 00:00:00,CUMBERLAND PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-539_Acetadote.cfm,True,True,False,False,False,-
+2722,ACCURETIC,20125,NDA,1999-12-28 00:00:00,PFIZER PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20125_Accuretic.cfm,True,True,False,False,False,-
+2724,ACCUNEB,20949,NDA,2001-04-30 00:00:00,MYLAN SPECLT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-949_AccuNeb.cfm,True,True,False,False,False,-
+2740,ABREVA,20941,NDA,2000-07-25 00:00:00,GLAXOSMITHKLINE,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-941_Abreva.cfm,True,True,False,False,False,-
+2741,ABRAXANE,21660,NDA,2005-01-07 00:00:00,ABRAXIS BIOSCIENCE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/21660_AbraxaneTOC.cfm,True,True,False,False,False,-
+2751,ABILIFY,21436,NDA,2002-11-15 00:00:00,OTSUKA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-436_Abilify.cfm,True,True,False,True,False,-
+2884,CYMBALTA,21733,NDA,2004-09-03 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021733s000_CymbaltaTOC.cfm,True,True,False,False,False,-
+2885,CYMBALTA,21427,NDA,2004-08-03 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021427_s000_Cymbalta.cfm,True,True,False,True,False,-
+2935,CYCLESSA,21090,NDA,2000-12-20 00:00:00,ASPEN GLOBAL INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-090_Cyclessa.cfm,True,True,False,False,False,-
+2955,CYANOKIT,22041,NDA,2006-12-15 00:00:00,SERB SA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022041_cyanokit_toc.cfm,True,True,False,False,False,-
+2976,CUTIVATE,21152,NDA,2005-03-31 00:00:00,FOUGERA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021152s000TOC.cfm,True,True,False,False,False,-
+2978,CUROSURF,20744,NDA,1999-11-18 00:00:00,CHIESI USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20744_Curosurf.cfm,True,True,False,False,False,-
+3012,CRESTOR,21366,NDA,2003-08-12 00:00:00,IPR,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-366_Crestor.cfm,True,True,False,True,False,-
+3027,COSOPT,20869,NDA,1998-04-07 00:00:00,OAK PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020869_cosopt_toc.cfm,True,False,False,False,False,-
+3102,COREG CR,22012,NDA,2006-10-20 00:00:00,SMITHKLINE BEECHAM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022012s000TOC.cfm,True,True,False,False,False,-
+3114,COPEGUS,21511,NDA,2002-12-03 00:00:00,ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-511_Copegus.cfm,True,False,False,False,False,-
+3115,CONZIP,22370,NDA,2010-05-07 00:00:00,CIPHER PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+3127,CONCERTA,21121,NDA,2000-08-01 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-121_Concerta.cfm,True,True,False,True,False,-
+3129,COMTAN,20796,NDA,1999-10-19 00:00:00,ORION PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20796_Comtan.cfm,False,True,False,False,False,-
+3153,COMMIT,21330,NDA,2002-10-31 00:00:00,GLAXOSMITHKLINE CONS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-330_Commit.cfm,True,True,False,False,False,-
+3160,COMBIPATCH,20870,NDA,1998-08-07 00:00:00,NOVEN PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20870_CombiPatch.cfm,True,True,False,False,False,-
+3194,COLAZAL,20610,NDA,2000-07-18 00:00:00,VALEANT PHARMS INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-610_Colazal.cfm,True,True,False,True,False,-
+3427,CLOLAR,21673,NDA,2004-12-28 00:00:00,GENZYME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-673_Clolar.cfm,True,True,False,False,False,-
+3430,CLOBEX,21835,NDA,2005-10-27 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021835s000TOC.cfm,True,True,False,False,False,-
+3431,CLOBEX,21644,NDA,2004-02-05 00:00:00,GALDERMA LABS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-644_Clobex.cfm,True,True,False,False,False,-
+3433,CLOBEX,21535,NDA,2003-07-24 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-535_Clobex.cfm,True,True,False,False,False,-
+3496,CLINDESSE,50793,NDA,2004-11-30 00:00:00,PERRIGO PHARMA INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/050793s000_ClinesseTOC.cfm,True,True,False,False,False,-
+3558,CLINDAGEL,50782,NDA,2000-11-27 00:00:00,PRECISION DERMAT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/50-782_Clindagel.cfm,True,True,False,False,False,-
+3566,CLIMARA PRO,21885,NDA,2005-12-27 00:00:00,BERLEX LABS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021885s000TOC.cfm,True,True,False,False,False,-
+3567,CLIMARA PRO,21258,NDA,2003-11-21 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021258s000_ClimaraTOC.cfm,True,True,False,False,False,-
+3583,CLEOCIN,50767,NDA,1999-08-13 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/50767_Cleocin.cfm,True,True,False,False,False,-
+3609,CLARITIN REDITABS,21993,NDA,2006-12-12 00:00:00,BAYER HEALTHCARE LLC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021993_claritin_toc.cfm,True,False,False,False,False,-
+3637,CLARINEX-D 12 HOUR,21313,NDA,2006-02-01 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021313s000TOC.cfm,True,True,False,False,False,-
+3638,CLARINEX D 24 HOUR,21605,NDA,2005-03-03 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021605s000TOC.cfm,True,True,False,False,False,-
+3641,CLARINEX,21563,NDA,2004-09-03 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021563s000_ClarinexTOC.cfm,True,False,False,False,False,-
+3642,CLARINEX,21363,NDA,2002-02-08 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-363_Clarinex.cfm,True,True,False,False,False,-
+3643,CLARINEX,21312,NDA,2002-06-26 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-312_Clarinex.cfm,True,True,False,False,False,-
+3644,CLARINEX,21300,NDA,2004-09-01 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021300s000_ClarinexTOC.cfm,True,False,False,False,False,-
+3645,CLARINEX,21297,NDA,2002-02-08 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-297_Clarinex.cfm,True,True,False,False,False,-
+3647,CLARINEX,21165,NDA,2001-12-21 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-165_Clarinex.cfm,True,True,False,False,False,-
+3754,CIPRODEX,21537,NDA,2003-07-18 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021537_Ciprodex.cfm,True,True,False,False,False,-
+3762,CIPRO XR,21554,NDA,2003-08-28 00:00:00,BAYER PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021554s000_CirpoXRTOC.cfm,True,True,False,False,False,-
+3764,CIPRO HC,20805,NDA,1998-02-10 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20805.cfm,True,True,False,False,False,-
+3828,CILOXAN,20369,NDA,1998-03-30 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020369_ciloxan.cfm,True,True,False,False,False,-
+3885,CIALIS,21368,NDA,2003-11-21 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-368_Cialis.cfm,True,True,False,False,False,-
+4237,CHLORHEXIDINE GLUCONATE,21669,NDA,2005-04-25 00:00:00,SAGE PRODS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/21669s000TOC.cfm,True,True,False,False,False,-
+4254,CHLORAPREP WITH TINT,20832,NDA,2000-07-14 00:00:00,BECTON DICKINSON CO,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-832_CHLORAPREP.cfm,True,True,False,False,False,-
+4255,CHLORAPREP TRIPLE SWABSTICK,21555,NDA,2002-10-07 00:00:00,BECTON DICKINSON CO,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-555_Chloraprep.cfm,True,True,False,False,False,-
+4280,CHIRHOSTIM,21256,NDA,2004-04-09 00:00:00,CHIRHOCLIN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-256_SyntheticHS.cfm,True,True,False,False,False,-
+4283,CHILDREN'S MOTRIN COLD,21128,NDA,2000-08-01 00:00:00,J AND J CONSUMER INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-128_ChildrensMotrin.cfm,True,False,False,False,False,-
+4298,CHILDREN'S ELIXSURE,21604,NDA,2004-01-07 00:00:00,MOBERG PHARMA NORTH,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021604s000_Childrens_ElixSureTOC.cfm,True,False,False,False,False,-
+4310,CHILDREN'S CLARITIN,21891,NDA,2006-08-23 00:00:00,BAYER HEALTHCARE LLC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021891s000TOC.cfm,True,False,False,False,False,-
+4326,CHILDREN'S ALLEGRA HIVES,21909,NDA,2007-07-26 00:00:00,SANOFI AVENTIS US,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021909_allegra_toc.cfm,True,False,False,False,False,-
+4341,CHILDREN'S ADVIL COLD,21373,NDA,2002-04-18 00:00:00,PFIZER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-373_Ibuprofen%20Childrens%20Advil.cfm,True,False,False,False,False,-
+4342,CHILDREN'S ADVIL ALLERGY SINUS,21587,NDA,2004-02-24 00:00:00,PFIZER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-587_Advil.cfm,True,False,False,False,False,-
+4345,CHILDREN'S ADVIL,20944,NDA,1998-12-18 00:00:00,PFIZER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20944_Advil.cfm,True,False,False,False,False,-
+4352,CHANTIX,21928,NDA,2006-05-10 00:00:00,PFIZER INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021928_s000_ChantixTOC.cfm,True,True,False,False,False,-
+4355,CETYLEV,207916,NDA,2016-01-29 00:00:00,ARBOR PHARMS LLC,Prescription,False,-,-,-,-,False,False,-
+4356,CETROTIDE,21197,NDA,2000-08-11 00:00:00,EMD SERONO INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-197_Cetrotide.cfm,True,True,False,False,False,-
+4501,CENTANY,50788,NDA,2002-12-04 00:00:00,PERRIGO NEW YORK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/050788_mupirocin.cfm,True,True,False,False,False,-
+4503,CELLCEPT,50759,NDA,1998-10-01 00:00:00,ROCHE PALO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/050759_s000_CellCeptTOC.cfm,True,False,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/50-722S007_CellCept.cfm
+4504,CELLCEPT,50758,NDA,1998-08-12 00:00:00,ROCHE PALO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/505758.cfm,True,False,False,False,False,-
+4508,CELEXA,20822,NDA,1998-07-17 00:00:00,FOREST LABS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020822a.cfm,True,True,False,False,False,-
+4521,CELEBREX,21156,NDA,1999-12-23 00:00:00,GD SEARLE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21156-S007_Celebrex.cfm,True,False,False,False,False,-
+4522,CELEBREX,20998,NDA,1998-12-31 00:00:00,GD SEARLE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20998.cfm,True,True,False,True,False,-
+4555,CEFUROXIME AND DEXTROSE IN DUPLEX CONTAINER,50780,NDA,2001-02-21 00:00:00,B BRAUN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/50780_Cefuroxime.cfm,True,True,False,False,False,-
+4577,CEFTRIAXONE AND DEXTROSE IN DUPLEX CONTAINER,50796,NDA,2005-04-20 00:00:00,B BRAUN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/050796s000TOC.cfm,True,True,False,False,False,-
+4628,CEFOXITIN AND DEXTROSE IN DUPLEX CONTAINER,65214,NDA,2006-03-10 00:00:00,B BRAUN,Prescription,False,-,-,-,-,False,False,-
+4639,CEFOTETAN AND DEXTROSE IN DUPLEX CONTAINER,65430,NDA,2007-08-09 00:00:00,B BRAUN,Prescription,False,-,-,-,-,False,False,-
+4785,CAVERJECT IMPULSE,21212,NDA,2002-06-11 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-212_Caverject.cfm,True,False,False,False,False,-
+4795,CASODEX,22310,NDA,2008-12-19 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022310_casodex_toc.cfm,True,True,False,False,False,-
+4825,CARNEXIV,206030,NDA,2016-10-07 00:00:00,LUNDBECK LLC,Prescription,False,-,-,-,-,False,False,-
+4857,CARDURA XL,21269,NDA,2005-02-22 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021269_carduraxl_toc.cfm,True,True,False,False,False,-
+4861,CARDIZEM LA,21392,NDA,2003-02-06 00:00:00,VALEANT INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-392_CardizemTOC.cfm,True,True,False,False,False,-
+4909,"CARBON DIOXIDE, USP",207166,NDA,2014-05-24 00:00:00,RELIANT HOLDINGS LTD,Prescription,False,-,-,-,-,False,False,-
+4910,"CARBON DIOXIDE, USP",206025,NDA,2013-09-07 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+4911,"CARBON DIOXIDE, USP",205852,NDA,2013-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+4912,"CARBON DIOXIDE, USP",205846,NDA,2013-07-20 00:00:00,AIRGAS CARBONIC INC,Prescription,False,-,-,-,-,False,False,-
+4913,"CARBON DIOXIDE, USP",205815,NDA,2013-07-05 00:00:00,LINDE MERCHANT PRODUCTIONS INC,Prescription,False,-,-,-,-,False,False,-
+4915,"CARBON DIOXIDE, USP",205764,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+4986,CARAC,20985,NDA,2000-10-27 00:00:00,VALEANT PHARMS NORTH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/carac_20985.cfm,True,True,False,False,False,-
+5020,CAPITAL SOLEIL 15,21501,NDA,2006-10-02 00:00:00,LOREAL USA,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021501_capital_soleil_toc.cfm,True,False,False,False,False,-
+5039,CANCIDAS,21227,NDA,2001-01-26 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21227_Cancidas.cfm,True,True,False,True,False,-
+5043,CAMPATH,103948,BLA,2001-05-07 00:00:00,GENZYME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/103948s000_CampathTOC.cfm,True,True,False,False,False,-
+5051,CAMBIA,22165,NDA,2009-06-17 00:00:00,DEPOMED INC,Prescription,False,-,-,-,-,False,False,-
+5063,CALCIUM CHLORIDE 10% IN PLASTIC CONTAINER,21117,NDA,2000-01-28 00:00:00,HOSPIRA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/021117_CalciumChloride.cfm,True,False,False,False,False,-
+5122,CAFCIT,20793,NDA,1999-09-21 00:00:00,WEST-WARD PHARMS INT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020793_000_CafcitTOC.cfm,True,True,False,False,False,-
+5123,CADUET,21540,NDA,2004-01-30 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021540S000_Caduet.cfm,True,True,False,False,False,-
+5126,CABOMETYX,208692,NDA,2016-04-25 00:00:00,EXELIXIS INC,Prescription,False,-,-,-,-,False,False,-
+5149,EXTRANEAL,21321,NDA,2002-12-20 00:00:00,BAXTER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21321_Extraneal.cfm,True,True,False,False,False,-
+5156,EXTINA,21738,NDA,2007-06-12 00:00:00,DELCOR ASSET CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021738_extina_toc.cfm,True,True,False,False,False,-
+5163,EXPAREL,22496,NDA,2011-10-28 00:00:00,PACIRA PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022496Orig1s000TOC.cfm,True,True,False,False,False,-
+5167,EXJADE,21882,NDA,2005-11-02 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021882_s000_ExjadeTOC.cfm,True,True,False,True,False,-
+5171,EXFORGE,21990,NDA,2007-06-20 00:00:00,NOVARTIS,Prescription,False,-,-,-,-,False,False,-
+5175,EXELON,22083,NDA,2007-07-06 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022083_exelon_toc.cfm,True,True,False,False,False,-
+5176,EXELON,20823,NDA,2000-04-21 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20823_Exelon.cfm,True,True,False,False,False,-
+5181,EXCEDRIN (MIGRAINE),20802,NDA,1998-01-14 00:00:00,GLAXOSMITHKLINE CONS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020802_s000_ExcedrinTOC.cfm,True,True,False,False,False,-
+5183,EVZIO,209862,NDA,2016-10-19 00:00:00,KALEO INC,Prescription,False,-,-,-,-,False,False,-
+5184,EVOXAC,20989,NDA,2000-01-11 00:00:00,DAIICHI SANKYO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-989_Evoxac.cfm,True,True,False,False,False,-
+5187,EVOMELA,207155,NDA,2016-03-10 00:00:00,SPECTRUM PHARMS,Prescription,False,-,-,-,-,False,False,-
+5188,EVOCLIN,50801,NDA,2004-10-22 00:00:00,DELCOR ASSET CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/050801s000_EvoclinTOC.cfm,True,True,False,False,False,-
+5189,EVISTA,22042,NDA,2007-09-13 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022042_evista_toc.cfm,True,True,False,False,False,-
+5319,ESTRASORB,21371,NDA,2003-10-09 00:00:00,EXELTIS USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-371_Estrasorb.cfm,True,True,False,False,False,-
+5361,ESOMEPRAZOLE STRONTIUM,202342,NDA,2013-08-06 00:00:00,HANMI PHARM CO LTD,Prescription,False,-,-,-,-,False,False,-
+5367,ESMOLOL HYDROCHLORIDE IN PLASTIC CONTAINER,205703,NDA,2016-04-07 00:00:00,HQ SPCLT PHARMA,Prescription,False,-,-,-,-,False,False,-
+5374,ESMOLOL HYDROCHLORIDE DOUBLE STRENGTH IN PLASTIC CONTAINER,205703,NDA,2016-04-07 00:00:00,HQ SPCLT PHARMA,Prescription,False,-,-,-,-,False,False,-
+5531,ERTACZO,21385,NDA,2003-12-10 00:00:00,VALEANT LUXEMBOURG,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-385_Ertaczo.cfm,True,True,False,False,False,-
+5566,ERBITUX,125084,BLA,2004-02-12 00:00:00,IMCLONE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/bla/2004/125084_erbitux_toc.cfm,True,True,False,True,False,-
+5567,ERAXIS,21948,NDA,2006-02-17 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021632_021948_EraxisTOC.cfm,True,True,False,False,False,-
+5571,EQUETRO,21710,NDA,2004-12-10 00:00:00,VALIDUS PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021710s000_EquetroTOC.cfm,True,True,False,False,False,-
+5575,EPZICOM,21652,NDA,2004-08-02 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021652s000_EpzicomTOC.cfm,True,False,False,False,False,-
+5586,EPIVIR-HBV,21004,NDA,1998-12-08 00:00:00,GLAXOSMITHKLINE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/21003_Epivir.cfm,True,True,False,False,False,-
+5622,EPANED,208686,NDA,2016-09-20 00:00:00,SILVERGATE PHARMS,Prescription,False,-,-,-,-,False,False,-
+5623,ENVARSUS XR,206406,NDA,2015-07-10 00:00:00,VELOXIS PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+5628,ENTOCORT EC,21324,NDA,2001-10-02 00:00:00,PERRIGO PHARMA INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-324_Entocort.cfm,True,True,False,True,False,-
+5656,ENJUVIA,21443,NDA,2004-05-10 00:00:00,TEVA WOMENS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021443s000_EnjuviaTOC.cfm,True,False,False,False,False,-
+5663,ENDOMETRIN,22057,NDA,2007-06-21 00:00:00,FERRING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022057_endometrin_toc.cfm,True,True,False,False,False,-
+5694,ENABLEX,21513,NDA,2004-12-22 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-513_Enablex.cfm,True,True,False,False,False,-
+5695,EMTRIVA,21896,NDA,2005-09-28 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021896s000TOC.cfm,True,True,False,True,False,-
+5696,EMTRIVA,21500,NDA,2003-07-02 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021500_emtriva_toc.cfm,True,True,False,False,False,-
+5705,EMSAM,21708,NDA,2014-09-10 00:00:00,SOMERSET,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021336s000_021708s000TOC.cfm,True,True,False,False,False,-
+5720,EMEND,21549,NDA,2003-03-27 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-549_Emend.cfm,True,True,False,False,False,-
+5732,ELOXATIN,21759,NDA,2005-01-31 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021759s000TOC.cfm,False,False,False,False,False,-
+5738,ELLENCE,50778,NDA,1999-09-15 00:00:00,PFIZER INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/50-778_Ellence.cfm,True,True,False,False,False,-
+5750,ELIGARD,21731,NDA,2004-12-14 00:00:00,TOLMAR THERAP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021731s000_EligardTOC.cfm,True,False,False,False,False,-
+5751,ELIGARD,21488,NDA,2003-02-13 00:00:00,TOLMAR THERAP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021488_eligard.cfm,True,True,False,False,False,-
+5752,ELIGARD,21379,NDA,2002-07-24 00:00:00,TOLMAR THERAP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-379_Eligard.cfm,True,False,False,False,False,-
+5753,ELIGARD,21343,NDA,2002-01-23 00:00:00,TOLMAR THERAP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-343_Eligard.cfm,True,True,False,False,False,-
+5756,ELIDEL,21302,NDA,2001-12-13 00:00:00,VALEANT BERMUDA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-302_Elidel.cfm,True,True,False,False,False,-
+5761,ELESTAT,21565,NDA,2003-10-16 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-565_Elestat.cfm,True,True,False,False,False,-
+5769,ELAPRASE,125151,BLA,2006-07-24 00:00:00,SHIRE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/125151s0000_ElapraseTOC.cfm,True,True,False,False,False,-
+5841,E-Z-HD,208036,NDA,2016-01-11 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+5881,DUTOPROL,21956,NDA,2006-08-28 00:00:00,CONCORDIA PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021956s000TOC.cfm,True,True,False,False,False,-
+5910,DURAPREP,21586,NDA,2006-09-29 00:00:00,3M,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021586s000TOC.cfm,True,True,False,False,False,-
+5933,DUODOTE,21983,NDA,2006-09-28 00:00:00,MERIDIAN MEDCL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021983_duodote_toc.cfm,True,False,False,False,False,-
+5956,DUETACT,21925,NDA,2006-07-28 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021925_duetact_toc.cfm,True,False,False,False,False,-
+5959,DUAC,50741,NDA,2002-08-26 00:00:00,STIEFEL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/050741_duac.cfm,True,True,False,False,False,-
+6246,DORYX,50795,NDA,2005-05-06 00:00:00,MAYNE PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/050795s000_DoryxTOC.cfm,True,True,False,False,False,-
+6342,DOCEFREZ,22534,NDA,2011-05-03 00:00:00,SUN PHARMA GLOBAL,Prescription,False,-,-,-,-,False,False,-
+6350,DOCETAXEL,22234,NDA,2011-03-08 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+6410,DITROPAN XL,20897,NDA,1998-12-16 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20897.cfm,True,True,False,False,False,-
+6586,DIOVAN HCT,20818,NDA,1998-03-06 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020818_diovan_toc.cfm,True,True,False,False,False,-
+6587,DIOVAN,21283,NDA,2001-07-18 00:00:00,NOVARTIS,Prescription,False,-,-,-,-,True,False,-
+6676,DIGOXIN,21648,NDA,2004-08-26 00:00:00,ROXANE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021648s000TOC.cfm,True,False,False,False,False,-
+6691,DIFFERIN,21753,NDA,2007-06-19 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021753TOC.cfm,True,True,False,False,False,-
+6692,DIFFERIN,20748,NDA,2000-05-26 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020748_differin.cfm,True,True,False,False,False,-
+7127,DEXILANT SOLUTAB,208056,NDA,2016-01-26 00:00:00,TAKEDA PHARMS USA,Prescription,False,-,-,-,-,False,False,-
+7275,DETROL LA,21228,NDA,2000-12-22 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-228_Detrol.cfm,True,True,False,False,False,-
+7276,DETROL,20771,NDA,1998-03-25 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20771_Detrol.cfm,True,True,False,False,False,-
+7280,DESVENLAFAXINE,204150,NDA,2013-03-04 00:00:00,ALEMBIC PHARMS LTD,Prescription,False,-,-,-,-,False,False,-
+7292,DESVENLAFAXINE,204150,NDA,2013-03-04 00:00:00,ALEMBIC PHARMS LTD,Prescription,False,-,-,-,-,False,False,-
+7314,DESONATE,21844,NDA,2006-10-20 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021844_desonate_toc.cfm,True,True,False,False,False,-
+7379,DESCOVY,208215,NDA,2016-04-04 00:00:00,GILEAD SCIENCES INC,Prescription,False,-,-,-,-,False,False,-
+7390,DEPOCYT,21041,NDA,1999-04-01 00:00:00,PACIRA PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21-041_DepoCyt.cfm,True,False,False,False,False,-
+7393,DEPO-SUBQ PROVERA 104,21583,NDA,2004-12-17 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021583s000TOC.cfm,True,True,False,False,False,-
+7400,DEPAKOTE ER,21168,NDA,2000-08-04 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-168_Depakote.cfm,True,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021168_S007_DepakoteTOC.cfm
+7402,DEPAKOTE ER,20782,NDA,2002-12-20 00:00:00,ABBOTT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020782_s000_DepakoteTOC.cfm,True,False,False,False,False,-
+7460,DEFINITY,21064,NDA,2001-07-31 00:00:00,LANTHEUS MEDCL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-064_Definity.cfm,True,True,False,False,False,-
+7496,DAYTRANA,21514,NDA,2006-04-06 00:00:00,NOVEN PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021514_daytrana_toc.cfm,True,True,False,False,False,-
+7505,DAUNORUBICIN HYDROCHLORIDE,50731,NDA,1998-01-30 00:00:00,WEST-WARD PHARMS INT,Prescription,False,-,-,-,-,False,False,-
+7574,DACOGEN,21790,NDA,2006-05-02 00:00:00,OTSUKA PHARM CO LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021790s000_DacogenTOC.cfm,True,True,False,False,False,-
+7579,FYCOMPA,208277,NDA,2016-04-29 00:00:00,EISAI INC,Prescription,False,-,-,-,-,False,False,-
+7582,FUZEON,21481,NDA,2003-03-13 00:00:00,ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021481_fuzeon_review.cfm,True,True,False,False,False,-
+7663,FROVA,21006,NDA,2001-11-08 00:00:00,ENDO PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-006_Frova.cfm,True,True,False,False,False,-
+7716,FOSAMAX PLUS D,21762,NDA,2005-04-07 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021762s000_FosamaxTOC.cfm,True,False,False,False,False,-
+7724,FORTAMET,21574,NDA,2004-04-28 00:00:00,ANDRX LABS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021574s000_ForametTOC.cfm,True,True,False,False,False,-
+7730,FORADIL,21279,NDA,2001-09-25 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/021279s000_ForadilTOC.cfm,True,True,False,False,False,-
+7732,FORADIL,20831,NDA,2001-02-16 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20831_Foradil.cfm,True,True,False,True,False,-
+7742,FOLLISTIM AQ,21211,NDA,2004-03-23 00:00:00,ORGANON USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021211s000_FollistimTOC.cfm,True,True,False,False,False,-
+7784,FOCALIN XR,21802,NDA,2005-05-26 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021802s000TOC.cfm,True,True,False,False,False,-
+7785,FOCALIN,21278,NDA,2001-11-13 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-278_Focalin.cfm,True,True,False,False,False,-
+7993,FLUORESCITE,21980,NDA,2006-03-28 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021980s000TOC.cfm,True,False,False,False,False,-
+8123,FLUDEOXYGLUCOSE F18,21870,NDA,2005-08-19 00:00:00,FEINSTEIN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021870s000TOC.cfm,True,False,False,False,False,-
+8135,FLUDARABINE PHOSPHATE,22137,NDA,2007-09-21 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022137_fludarabine_toc.cfm,False,False,False,False,False,-
+8184,FLOVENT HFA,21433,NDA,2004-05-14 00:00:00,GLAXO GRP LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021433s000_FloventHFATOC.cfm,True,True,False,True,False,-
+8185,FLOVENT DISKUS 250,20833,NDA,2000-09-29 00:00:00,GLAXO GRP LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-833_Flovent.cfm,True,True,False,False,False,-
+8203,FLECTOR,21234,NDA,2007-01-31 00:00:00,INST BIOCHEM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021234s000TOC.cfm,True,True,False,False,False,-
+8228,FINACEA,21470,NDA,2002-12-24 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-470_Finacea.cfm,True,True,False,False,False,-
+8293,FERRLECIT,20955,NDA,1999-02-18 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20955_Ferrlecit.cfm,True,True,False,True,False,-
+8301,FENTORA,21947,NDA,2006-09-25 00:00:00,CEPHALON,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021947s000FentoraTOC.cfm,True,True,False,False,False,-
+8393,FENOGLIDE,22118,NDA,2007-08-10 00:00:00,SANTARUS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022118_fenofibrate_toc.cfm,True,False,False,False,False,-
+8419,FEMTRACE,21633,NDA,2004-08-20 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021633s000_FemtraceTOC.cfm,True,True,False,False,False,-
+8426,FEMRING,21367,NDA,2003-03-20 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021367TOC.cfm,True,True,False,False,False,-
+8428,FEMHRT,21102,NDA,1999-10-15 00:00:00,WARNER CHILCOTT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/021102_s000_21065_FemhrtTOC.cfm,True,False,False,False,False,-
+8429,FEMHRT,21065,NDA,1999-10-15 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21065_Femhrt.cfm,True,False,False,False,False,-
+8431,FEMCON FE,21490,NDA,2003-11-14 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-490_NorethinOvcon.cfm,True,False,False,False,False,-
+8453,FAZACLO ODT,21590,NDA,2004-02-09 00:00:00,JAZZ PHARMS III,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021590s000_FazacloTOC.cfm,True,False,False,False,False,-
+8455,FASLODEX,21344,NDA,2002-04-25 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-344_FulvestrantFaslodex.cfm,True,True,False,True,False,-
+8537,FACTIVE,21158,NDA,2003-04-04 00:00:00,LG LIFE SCIENCES,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21158_Factive.cfm,True,True,False,False,False,-
+8546,GYNE-LOTRIMIN 3,20574,NDA,1998-11-24 00:00:00,BAYER HEALTHCARE LLC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-574_GyneLotrimin.cfm,True,True,False,False,False,-
+8642,GONITRO,208424,NDA,2016-06-08 00:00:00,POHL BOSKAMP,Prescription,False,-,-,-,-,False,False,-
+8643,GONAL-F RFF REDI-JECT,21684,NDA,2004-05-25 00:00:00,EMD SERONO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021684s000_GonalTOC.cfm,True,False,False,False,False,-
+8716,GLUMETZA,21748,NDA,2005-06-03 00:00:00,SANTARUS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021748s000_GlumetzaTOC.cfm,True,True,False,False,False,-
+8721,GLUCOPHAGE XR,21202,NDA,2000-10-13 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-202_Glucophage.cfm,True,True,False,False,False,-
+8726,GLUCAGON,20928,NDA,1998-09-11 00:00:00,LILLY,Prescription,False,-,-,-,-,False,False,-
+8731,GLUCAGEN,20918,NDA,1998-06-22 00:00:00,NOVO NORDISK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020918s000_GlucagenTOC.cfm,True,False,False,False,False,-
+8732,GLUCAGON,20928,NDA,1998-09-11 00:00:00,LILLY,Prescription,False,-,-,-,-,False,False,-
+8778,GLEEVEC,21588,NDA,2003-04-18 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021588s000_GleevecTOC.cfm,False,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-335s003_21-588s001_Gleevec.cfm
+8797,GEODON,20919,NDA,2002-06-21 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/20-919_Geodon.cfm,True,True,False,False,False,-
+8798,GEODON,20825,NDA,2001-02-05 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-825_Geodan.cfm,True,True,False,False,False,-
+8948,GANIRELIX ACETATE,21057,NDA,1999-07-29 00:00:00,ORGANON USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21057_Antagon.cfm,True,False,False,False,False,-
+9034,IXEMPRA KIT,22065,NDA,2007-10-16 00:00:00,R-PHARM US LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022065TOC.cfm,True,True,False,True,False,-
+9049,ISTALOL,21516,NDA,2004-06-04 00:00:00,BAUSCH AND LOMB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021516s000_IstalolTOC.cfm,True,True,False,False,False,-
+9314,IPRIVASK,21271,NDA,2003-04-04 00:00:00,VALEANT PHARMS NORTH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-271_Iprivask.cfm,True,True,False,False,False,-
+9354,IONSYS,21338,NDA,2006-05-22 00:00:00,THE MEDICINES CO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021338_toc.cfm,True,True,False,False,False,-
+9361,INVOKAMET XR,205879,NDA,2016-09-20 00:00:00,JANSSEN PHARMS,Prescription,False,-,-,-,-,False,False,-
+9364,INVIRASE,21785,NDA,2004-12-17 00:00:00,HOFFMANN-LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021785s000_InviraseTOC.cfm,True,True,False,False,False,-
+9369,INVEGA,22043,NDA,2007-04-27 00:00:00,JANSSEN LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022043_invega_toc.cfm,True,True,False,False,False,-
+9370,INVANZ,21337,NDA,2001-11-21 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21337_Invanz.cfm,True,True,False,False,False,-
+9372,INVEGA,21999,NDA,2006-12-19 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021999s000_TOC.cfm,True,True,False,False,False,-
+9388,INTEGRILIN,20718,NDA,1998-05-18 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20718_Integrilin.cfm,True,True,False,False,False,-
+9395,INSPRA,21437,NDA,2002-09-27 00:00:00,GD SEARLE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-437_Inspra.cfm,True,True,False,True,False,-
+9406,INNOPRAN XL,21438,NDA,2003-03-12 00:00:00,GLAXOSMITHKLINE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-438_Innopran.cfm,True,True,False,False,False,-
+9412,INFUVITE PEDIATRIC (PHARMACY BULK PACKAGE),21646,NDA,2004-01-29 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021646s000_Influvite_PediatricTOC.cfm,False,False,False,False,False,-
+9413,INFUVITE PEDIATRIC,21265,NDA,2001-02-21 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-265_Infuvite.cfm,True,False,False,False,False,-
+9415,INFUVITE ADULT,21559,NDA,2003-06-16 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-559_Infuvite.cfm,False,False,False,False,False,-
+9416,INFUVITE ADULT,21163,NDA,2000-05-18 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-163_Multi-12.cfm,True,True,False,False,False,-
+9422,INFASURF PRESERVATIVE FREE,20521,NDA,1998-07-01 00:00:00,ONY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20521_Infasurf.cfm,True,False,False,False,False,-
+9515,INCRELEX,21839,NDA,2005-08-30 00:00:00,IPSEN INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021839_IncrelexTOC.cfm,True,True,False,False,False,-
+9525,IMODIUM MULTI-SYMPTOM RELIEF,21140,NDA,2000-11-30 00:00:00,J AND J CONSUMER INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-140_Imodium.cfm,True,False,False,False,False,-
+9625,IDKIT:HP,21314,NDA,2002-12-17 00:00:00,EXALENZ BIOSCIENCE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021314s000_IDKitTOC.cfm,True,False,False,False,False,-
+9839,HYLENEX RECOMBINANT,21859,NDA,2005-12-02 00:00:00,HALOZYME THERAP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021859_s000_HylenexTOC.cfm,True,False,False,False,False,-
+10016,HYDROMORPHONE HYDROCHLORIDE,200403,NDA,2011-12-01 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+10545,HUMALOG MIX 75/25 PEN,21017,NDA,1999-12-22 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21017_Humalog.cfm,True,False,False,False,False,-
+10586,HEPSERA,21449,NDA,2002-09-20 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-449_Hepsera.cfm,True,True,False,True,False,-
+10702,"HELIUM, USP",206826,NDA,2014-03-04 00:00:00,LINDE GAS NORTH AMERICA LLC,Prescription,False,-,-,-,-,False,False,-
+10703,"HELIUM, USP",206026,NDA,2013-09-07 00:00:00,AIR LIQUIDE HEALTHCARE AMERICA CORP,Prescription,False,-,-,-,-,False,False,-
+10704,"HELIUM, USP",205912,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION INC,Prescription,False,-,-,-,-,False,False,-
+10705,"HELIUM, USP",205911,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION MID-ATLANTIC LLC,Prescription,False,-,-,-,-,False,False,-
+10706,"HELIUM, USP",205864,NDA,2013-07-23 00:00:00,AIR PRODUCTS AND CHEMICALS INC,Prescription,False,-,-,-,-,False,False,-
+10707,"HELIUM, USP",205851,NDA,2015-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+10708,"HELIUM, USP",205843,NDA,2013-07-20 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+10709,"HELIUM, USP",205819,NDA,2013-07-14 00:00:00,NORCO INC,Prescription,False,-,-,-,-,False,False,-
+10712,HECTOROL,21027,NDA,2000-04-06 00:00:00,GENZYME CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21027_Hectorol.cfm,True,True,False,False,False,-
+10713,HECTOROL,20862,NDA,1999-06-09 00:00:00,GENZYME CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020862_Hectorol.cfm,True,True,False,False,False,-
+10985,KYLEENA,208224,NDA,2016-09-16 00:00:00,BAYER HLTHCARE,Prescription,False,-,-,-,-,False,False,-
+10994,KOVANAZE,208032,NDA,2016-06-29 00:00:00,ST RENATUS,Prescription,False,-,-,-,-,False,False,-
+11012,KITABIS PAK,205433,NDA,2014-12-02 00:00:00,PULMOFLOW INC,Prescription,False,-,-,-,-,False,False,-
+11017,KINERET,103950,BLA,2001-11-14 00:00:00,BIOVITRUM AB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/103950-0_Kineret.cfm,True,True,False,False,False,-
+11100,KEPPRA,21872,NDA,2006-07-31 00:00:00,UCB INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021872s000TOC.cfm,True,False,False,False,False,-
+11101,KEPPRA,21505,NDA,2003-07-15 00:00:00,UCB INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/0221505_s000_Keppra.cfm,True,False,False,True,False,-
+11102,KEPPRA,21035,NDA,1999-11-30 00:00:00,UCB INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21035_Keppra.cfm,True,True,False,True,False,-
+11103,KEPIVANCE,125103,BLA,2004-12-15 00:00:00,BIOVITRUM AB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/125103s000_KepivanceTOC.cfm,True,True,False,False,False,-
+11168,KALETRA,21906,NDA,2005-10-28 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021906s000TOC.cfm,True,False,False,True,False,-
+11169,KALETRA,21251,NDA,2000-09-15 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-226_Kaletra.cfm,True,True,False,True,False,-
+11193,JENTADUETO XR,208026,NDA,2016-05-27 00:00:00,BOEHRINGER INGELHEIM,Prescription,False,-,-,-,-,False,False,-
+11200,JANUVIA,21995,NDA,2006-10-16 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021995s000TOC.cfm,True,True,False,False,False,-
+11203,JANUMET,22044,NDA,2007-03-30 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022044TOC.cfm,True,True,False,False,False,-
+11205,JALYN,22460,NDA,2010-06-14 00:00:00,GLAXOSMITHKLINE,Prescription,False,-,-,-,-,False,False,-
+11219,MYOZYME,125141,BLA,2006-04-28 00:00:00,GENZYME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/125141s000_MyozymeTOC.cfm,True,True,False,False,False,-
+11238,MYFORTIC,50791,NDA,2004-02-27 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/50-791_Myfortic.cfm,True,True,False,False,False,-
+11297,MYCAMINE,21754,NDA,2005-03-16 00:00:00,FUJISAWA HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021754s000_mycamine_TOC.cfm,True,True,False,False,False,-
+11298,MYCAMINE,21506,NDA,2005-03-16 00:00:00,ASTELLAS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/21-506_Mycamine.cfm,True,True,False,False,False,-
+11318,MULTIHANCE MULTIPACK,21358,NDA,2004-11-23 00:00:00,BRACCO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021358s000_021357s000_MultiHance.cfm,True,True,False,False,False,-
+11319,MULTIHANCE,21357,NDA,2004-11-23 00:00:00,BRACCO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021357_021358_Multihance.cfm,True,True,False,True,False,-
+11326,MUCINEX DM,21620,NDA,2004-04-29 00:00:00,RECKITT BENCKISER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021620s000_MucinexTOC.cfm,True,False,False,False,False,-
+11327,MUCINEX D,21585,NDA,2004-06-22 00:00:00,RECKITT BENCKISER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021585s000_MucinexTOC.cfm,True,False,False,False,False,-
+11328,MUCINEX,21282,NDA,2002-07-12 00:00:00,RECKITT BENCKISER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-282_Mucinex.cfm,True,True,False,False,False,-
+11353,MOVIPREP,21881,NDA,2006-08-02 00:00:00,SALIX PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021881_moviprep_toc.cfm,True,True,False,False,False,-
+11471,MONISTAT 3 COMBINATION PACK (PREFILLED),21261,NDA,2001-02-02 00:00:00,MEDTECH PRODUCTS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-261_Monistat3.cfm,True,False,False,False,False,-
+11474,MONISTAT 3,20827,NDA,1998-03-30 00:00:00,MEDTECH PRODUCTS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20827_Monistat3.cfm,True,True,False,False,False,-
+11477,MONISTAT 1 COMBINATION PACK,21308,NDA,2001-06-29 00:00:00,MEDTECH PRODUCTS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-308_Monistat.cfm,True,False,False,False,False,-
+11521,MOBIC,21530,NDA,2004-06-01 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021530s000_MobicTOC.cfm,True,False,False,False,False,-
+11522,MOBIC,20938,NDA,2000-04-13 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-938_Mobic.cfm,True,True,False,False,False,-
+11567,MIRENA,21225,NDA,2000-12-06 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-225_Mirena.cfm,True,True,False,False,False,-
+11568,MIRCERA,125164,BLA,2007-11-14 00:00:00,HOFFMAN-LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/125164TOC.cfm,True,True,False,False,False,-
+11575,MIRALAX,22015,NDA,2006-10-06 00:00:00,BAYER HEALTHCARE LLC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022015s000_TOC.cfm,True,True,False,False,False,-
+11654,MINIRIN,21333,NDA,2002-09-16 00:00:00,FERRING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021333s000_MinirinTOC.cfm,True,True,False,False,False,-
+11693,MIFEPREX,20687,NDA,2000-09-28 00:00:00,DANCO LABS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20687_mifepristone.cfm,True,True,False,False,False,-
+11698,MIDOL LIQUID GELS,21472,NDA,2002-10-18 00:00:00,BIONPHARMA INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-472_Ibuprofen.cfm,False,False,False,False,False,-
+11769,MICARDIS HCT,21162,NDA,2000-11-17 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-162_Micards.cfm,True,True,False,False,False,-
+11770,MICARDIS,20850,NDA,1998-11-10 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20850_Micardis.cfm,True,True,False,False,False,-
+11842,METROLOTION,20901,NDA,1998-11-24 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20901.cfm,True,True,False,False,False,-
+11845,METROGEL,21789,NDA,2005-06-30 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021789s000_MetrogelTOC.cfm,True,True,False,False,False,-
+12110,METHYLIN,21419,NDA,2002-12-19 00:00:00,MALLINCKRODT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-419_Methylin.cfm,True,False,False,False,False,-
+12497,METADATE CD,21259,NDA,2001-04-03 00:00:00,UCB INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-259_Metadate.cfm,True,True,False,False,False,-
+12503,MESNEX,20855,NDA,2002-03-21 00:00:00,BAXTER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020855_mesnex.cfm,True,True,False,False,False,-
+12642,MENOSTAR,21674,NDA,2004-06-08 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021674_s000_MenostarTOC.cfm,True,True,False,False,False,-
+12643,MENOPUR,21663,NDA,2004-10-29 00:00:00,FERRING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-663_MenopurTOC.cfm,True,True,False,False,False,-
+12649,MEN'S ROGAINE,21812,NDA,2006-01-20 00:00:00,JOHNSON AND JOHNSON,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021812s000TOC.cfm,True,True,False,False,False,-
+12725,MEGACE ES,21778,NDA,2005-07-05 00:00:00,ENDO PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021778s000TOC.cfm,True,False,False,False,False,-
+12758,"MEDICAL GAS, USP",207114,NDA,2014-05-12 00:00:00,AMERICAN WELDING AND GAS INC,Prescription,False,-,-,-,-,False,False,-
+12759,"MEDICAL AIR, USP",207036,NDA,2014-04-22 00:00:00,CEE KAY SUPPLY,Prescription,False,-,-,-,-,False,False,-
+12760,"MEDICAL AIR, USP",205999,NDA,2013-09-01 00:00:00,ACETYLENE OXYGENE CO,Prescription,False,-,-,-,-,False,False,-
+12761,"MEDICAL AIR, USP",205992,NDA,2013-08-31 00:00:00,UNITED STATES WELDING INC,Prescription,False,-,-,-,-,False,False,-
+12762,"MEDICAL AIR, USP",205910,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION MID-ATLANTIC LLC,Prescription,False,-,-,-,-,False,False,-
+12763,"MEDICAL AIR, USP",205909,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION INC,Prescription,False,-,-,-,-,False,False,-
+12764,"MEDICAL AIR, USP",205890,NDA,2015-07-30 00:00:00,MATHESON TRI-GAS INC,Prescription,False,-,-,-,-,False,False,-
+12765,"MEDICAL AIR, USP",205859,NDA,2013-07-23 00:00:00,NEXAIR,Prescription,False,-,-,-,-,False,False,-
+12766,"MEDICAL AIR, USP",205847,NDA,2013-07-20 00:00:00,OXARC INC,Prescription,False,-,-,-,-,False,False,-
+12767,"MEDICAL AIR, USP",205828,NDA,2013-07-13 00:00:00,AIR LIQUIDE AMERICA LP,Prescription,False,-,-,-,-,False,False,-
+12768,"MEDICAL AIR, USP",205826,NDA,2013-07-15 00:00:00,DUPUY OXYGEN,Prescription,False,-,-,-,-,False,False,-
+12769,"MEDICAL AIR, USP",205821,NDA,2013-07-14 00:00:00,SCOTT-GROSS COMPANY,Prescription,False,-,-,-,-,False,False,-
+12770,"MEDICAL AIR, USP",205809,NDA,2013-07-14 00:00:00,WESTAIR GASES & EQUIPMENT INC,Prescription,False,-,-,-,-,False,False,-
+12771,"MEDICAL AIR, USP",205804,NDA,2013-07-14 00:00:00,"PURITY CYLINDER GASES, INC",Prescription,False,-,-,-,-,False,False,-
+12772,"MEDICAL AIR, USP",205796,NDA,2013-07-13 00:00:00,MACHINE & WELDING SUPPLY CO,Prescription,False,-,-,-,-,False,False,-
+12773,"MEDICAL AIR, USP",205765,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+12774,"MEDICAL AIR, USP",205711,NDA,2013-06-06 00:00:00,AIR LIQUIDE AMERICA SPECIALITY GASES,Prescription,False,-,-,-,-,False,False,-
+12775,"MEDICAL GAS, USP",205845,NDA,2013-07-20 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+12776,"MEDICAL GAS, USP",205803,NDA,2013-07-14 00:00:00,"WYNN L MADER, INDUSTRIAL GAS DISTRIBUTORS",Prescription,False,-,-,-,-,False,False,-
+12857,MAXALT-MLT,20865,NDA,1998-06-29 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20864-20865.cfm,True,True,False,False,False,-
+12923,MALARONE PEDIATRIC,21078,NDA,2000-07-14 00:00:00,GLAXOSMITHKLINE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/021078_malarone.cfm,True,True,False,True,False,-
+12926,MAGNEVIST,21037,NDA,2000-03-10 00:00:00,BAYER HLTHCARE,Prescription,False,-,-,-,-,False,False,-
+12941,MACUGEN,21756,NDA,2004-12-17 00:00:00,VALEANT PHARMS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-756_Macugen.cfm,True,False,False,False,False,-
+12951,M.V.I. ADULT (PHARMACY BULK PACKAGE),21643,NDA,2004-02-18 00:00:00,HOSPIRA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021643s000_MVI_AdultTOC.cfm,False,False,False,False,False,-
+12953,M.V.I. ADULT,21625,NDA,2004-01-30 00:00:00,HOSPIRA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21625s000_MVI_AdultTOC.cfm,True,False,False,False,False,-
+12960,LYRICA,21724,NDA,2005-06-10 00:00:00,CP PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021724s000TOC.cfm,True,True,False,False,False,-
+12961,LYRICA,21723,NDA,2004-12-30 00:00:00,CP PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021723s000_LyricaCapsTOC.cfm,True,True,False,False,False,-
+12962,LYRICA,21446,NDA,2004-12-30 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021446_LyricaTOC.cfm,True,True,False,False,False,-
+12973,LUXIQ,20934,NDA,1999-02-28 00:00:00,DELCOR ASSET CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20934.cfm,True,True,False,False,False,-
+12997,LUNESTA,21476,NDA,2004-12-15 00:00:00,SUNOVION PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021476_Lunesta.cfm,True,True,False,True,False,-
+13007,LUCENTIS,125156,BLA,2006-06-30 00:00:00,GENENTECH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/125156s0000_LucentisTOC.cfm,True,True,False,False,False,-
+13024,LOVENOX,22138,NDA,2007-05-16 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022138_020164_lovenox_enoxaparin_sodium_toc.cfm,True,True,False,False,False,-
+13027,LOVAZA,21654,NDA,2004-11-10 00:00:00,SMITHKLINE BEECHAM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-654_Omacor.cfm,True,True,False,False,False,-
+13037,LOTRONEX,21107,NDA,2000-02-09 00:00:00,SEBELA IRELAND LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21107a_Lotronex.cfm,True,True,False,False,False,-
+13038,LOTRISONE,20010,NDA,2000-12-08 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20010_Lotrisone.cfm,True,True,False,False,False,-
+13041,LOTRIMIN ULTRA,21307,NDA,2001-12-07 00:00:00,BAYER HEALTHCARE LLC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-307_Lotrimin.cfm,True,True,False,False,False,-
+13053,LOTEMAX,20583,NDA,1998-03-09 00:00:00,BAUSCH AND LOMB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20583_Lotemax.cfm,True,True,False,False,False,-
+13195,LORATADINE,21734,NDA,2005-10-04 00:00:00,TARO,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021734s000TOC.cfm,True,False,False,False,False,-
+13198,LOPROX,21159,NDA,2003-02-28 00:00:00,MEDICIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21159_Loprox.cfm,True,True,False,False,False,-
+13250,LOPERAMIDE HYDROCHLORIDE,21855,NDA,2005-08-04 00:00:00,BIONPHARMA INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021855s000TOC.cfm,True,False,False,False,False,-
+13260,LOESTRIN 24 FE,21871,NDA,2006-02-17 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021871TOC.cfm,True,True,False,False,False,-
+13270,LOCOID,22076,NDA,2007-05-18 00:00:00,PRECISION DERMAT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022076_locoid_toc.cfm,True,True,False,False,False,-
+13371,LIPOFEN,21612,NDA,2006-01-11 00:00:00,CIPHER PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021612_lipofen_toc.cfm,True,False,False,False,False,-
+13385,LINEZOLID IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER,206473,NDA,2015-06-18 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+13424,LIDODERM,20612,NDA,1999-03-19 00:00:00,TEIKOKU PHARMA USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20612.cfm,True,True,False,False,False,-
+13559,LIALDA,22000,NDA,2007-01-16 00:00:00,SHIRE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022000s000TOC.cfm,True,True,False,False,False,-
+13560,LEXIVA,22116,NDA,2007-06-14 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022116_lexiva_toc.cfm,True,False,False,False,False,-
+13561,LEXIVA,21548,NDA,2003-10-20 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-548_Lexiva.cfm,True,True,False,False,False,-
+13563,LEXAPRO,21440,NDA,2002-08-29 00:00:00,FOREST LABS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-440_21323s1_Lexapro.cfm,True,False,False,False,False,-
+13564,LEXAPRO,21365,NDA,2002-11-27 00:00:00,FOREST LABS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-365_Lexapro.cfm,True,False,False,True,False,-
+13565,LEXAPRO,21323,NDA,2002-08-14 00:00:00,FOREST LABS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-323_Lexapro.cfm,True,True,False,True,False,-
+13566,LEVULAN,20965,NDA,1999-12-03 00:00:00,DUSA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-965_Levulan.cfm,True,True,False,False,False,-
+13567,LEVOXYL,21301,NDA,2001-05-25 00:00:00,KING PHARMS R AND D,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-301_Levoxyl.cfm,True,False,False,False,False,-
+13621,LEVOLEUCOVORIN CALCIUM,208723,NDA,2016-09-29 00:00:00,ACTAVIS LLC,Prescription,False,-,-,-,-,False,False,-
+13728,LEVO-T,21342,NDA,2002-03-01 00:00:00,ALARA PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-342_Levothyroxine.cfm,True,True,False,False,False,-
+13729,LEVITRA,21400,NDA,2003-08-19 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-400_Levitra.cfm,True,True,False,False,False,-
+13740,LEVEMIR PENFILL,21536,NDA,2005-06-16 00:00:00,NOVO NORDISK INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021-536_LevemirTOC.cfm,True,True,False,False,False,-
+13813,LEVEMIR,21878,NDA,2005-10-19 00:00:00,NOVO NORDISK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021878s000_LevemirTOC.cfm,True,True,False,False,False,-
+13817,LEVAQUIN,21721,NDA,2004-10-21 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021721s000TOC.cfm,True,False,False,True,False,-
+13882,LETAIRIS,22081,NDA,2007-06-15 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022081s000TOC.cfm,True,True,False,False,False,-
+13899,LESCOL XL,21192,NDA,2000-10-06 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-192_Lescol.cfm,True,False,False,True,False,-
+13941,LARTRUVO,761038,BLA,2016-10-19 00:00:00,ELI LILLY AND CO,Prescription,False,-,-,-,-,False,False,-
+13952,LANTUS SOLOSTAR,21081,NDA,2000-04-20 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21081_Lantus.cfm,True,True,False,False,False,-
+13958,LANSOPRAZOLE,208025,NDA,2016-06-07 00:00:00,DEXCEL PHARMA,Over-the-counter,False,-,-,-,-,False,False,-
+14053,LAMIVUDINE; ZIDOVUDINE,22296,NDA,2009-07-23 00:00:00,AUROBINDO PHARMA LTD,None (Tentative Approval),False,-,-,-,-,False,False,-
+14065,LAMIVUDINE; ZIDOVUDINE,22296,NDA,2009-07-23 00:00:00,AUROBINDO PHARMA LTD,None (Tentative Approval),False,-,-,-,-,False,False,-
+14107,LAMISIL AT,21958,NDA,2006-07-24 00:00:00,NOVARTIS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021958TOC.cfm,True,False,False,False,False,-
+14108,LAMISIL AT,21124,NDA,2000-03-17 00:00:00,NOVARTIS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-124_TerbinafineLamisil.cfm,True,True,False,False,False,-
+14133,LAMISIL,22071,NDA,2007-09-28 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022071_lamisil_toc.cfm,True,True,False,False,False,-
+14134,LAMISIL,20980,NDA,1999-03-09 00:00:00,NOVARTIS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20980.cfm,True,True,False,False,False,-
+14143,LAMICTAL CD,20764,NDA,1998-08-24 00:00:00,GLAXOSMITHKLINE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020764a.cfm,True,True,False,False,False,-
+14215,OXYTROL,21351,NDA,2003-02-26 00:00:00,ALLERGAN SALES LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-351_Oxytrol.cfm,True,True,False,False,False,-
+14240,"OXYGEN, USP",206023,NDA,2013-09-07 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+14241,"OXYGEN, USP",205986,NDA,2013-08-27 00:00:00,PRAXAIR CANADA INC,Prescription,False,-,-,-,-,False,False,-
+14242,"OXYGEN, USP",205889,NDA,2015-07-30 00:00:00,MATHESON TRI-GAS INC,Prescription,False,-,-,-,-,False,False,-
+14243,"OXYGEN, USP",205865,NDA,2013-07-23 00:00:00,AIR PRODUCTS AND CHEMICALS INC,Prescription,False,-,-,-,-,False,False,-
+14244,"OXYGEN, USP",205862,NDA,2013-07-23 00:00:00,ASPEN AIR,Prescription,False,-,-,-,-,False,False,-
+14245,"OXYGEN, USP",205849,NDA,2013-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+14246,"OXYGEN, USP",205840,NDA,2013-07-16 00:00:00,AIRGAS MERCHANTS GASES LLC,Prescription,False,-,-,-,-,False,False,-
+14247,"OXYGEN, USP",205827,NDA,2013-07-13 00:00:00,AIR LIQUIDE AMERICA LP,Prescription,False,-,-,-,-,False,False,-
+14248,"OXYGEN, USP",205820,NDA,2013-07-14 00:00:00,NORCO INC,Prescription,False,-,-,-,-,False,False,-
+14249,"OXYGEN, USP",205818,NDA,2013-07-05 00:00:00,LINDE GAS PUERTO RICO INC,Prescription,False,-,-,-,-,False,False,-
+14250,"OXYGEN, USP",205817,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+14251,"OXYGEN, USP",205767,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+14252,"OXYGEN, USP",205737,NDA,2013-06-16 00:00:00,AIR LIQUIDE LARGE INDUSTRIES US LP,Prescription,False,-,-,-,-,False,False,-
+14253,"OXYGEN, USP",205713,NDA,2013-06-16 00:00:00,AIR LIQUID INDUSTRIAL US LP,Prescription,False,-,-,-,-,False,False,-
+14254,"OXYGEN, USP",205712,NDA,2013-06-16 00:00:00,AIR LIQUID INDUSTRIAL US LP,Prescription,False,-,-,-,-,False,False,-
+14358,Oxybutynin Chloride,78293,NDA,2007-05-10 00:00:00,MYLAN PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+14472,OXALIPLATIN,22160,NDA,2009-08-07 00:00:00,TEVA PHARMS,Prescription,False,-,-,-,-,False,False,-
+14485,OTOVEL,208251,NDA,2016-04-29 00:00:00,LABORATORIOS SALVAT,Prescription,False,-,-,-,-,False,False,-
+14502,OSMOPREP,21892,NDA,2006-03-16 00:00:00,SALIX PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021892_osmoprep_toc.cfm,True,True,False,False,False,-
+14534,ORTHO TRI-CYCLEN LO,21241,NDA,2002-08-22 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021241_sooo_Orthotricyclene.cfm,True,True,False,False,False,-
+14535,ORTHO TRI-CYCLEN 28,21690,NDA,2005-05-13 00:00:00,ORTHO MCNEIL PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021690s000TOC.cfm,True,True,False,False,False,-
+14567,ORFADIN,206356,NDA,2016-04-22 00:00:00,SWEDISH ORPHAN,Prescription,False,-,-,-,-,False,False,-
+14568,ORFADIN,21232,NDA,2002-01-18 00:00:00,SWEDISH ORPHAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-232_Orfadin.cfm,True,False,False,False,False,-
+14576,ORENCIA,125118,BLA,2005-12-23 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/125118_s0000_OrenciaTOC.cfm,True,True,False,False,False,-
+14582,ORAQIX,21451,NDA,2003-12-19 00:00:00,DENTSPLY PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021451s000_OraqixTOC.cfm,True,True,False,False,False,-
+14583,ORAPRED ODT,21959,NDA,2006-06-01 00:00:00,CONCORDIA PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021959TOC.cfm,True,False,False,False,False,-
+14591,ORACEA,50805,NDA,2006-05-26 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/050805s000TOC.cfm,True,True,False,False,False,-
+14597,OPTIVAR,21127,NDA,2000-05-22 00:00:00,MEDA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21127_Optivar.cfm,True,False,False,False,False,-
+14609,OPTIMARK IN PLASTIC CONTAINER,20976,NDA,1999-12-08 00:00:00,LIEBEL-FLARSHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20937_OptiMark.cfm,True,True,False,False,False,-
+14624,OPANA,21611,NDA,2006-06-22 00:00:00,ENDO PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021610s000_021611s000TOC.cfm,True,True,False,False,False,-
+14721,OMNITROPE,21426,NDA,2006-05-30 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021426s000TOC.cfm,True,True,False,False,False,-
+14743,OMNARIS,22004,NDA,2006-10-20 00:00:00,TAKEDA GMBH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022004s000TOC.cfm,True,True,False,False,False,-
+14775,OMEPRAZOLE,22032,NDA,2007-12-04 00:00:00,DEXCEL PHARMA,Over-the-counter,False,-,-,-,-,False,False,-
+14776,OMACOR,21853,NDA,2007-06-12 00:00:00,RELIANT PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021853_021654s016_omacor_toc.cfm,True,True,False,False,False,-
+14778,OLUX E,22013,NDA,2007-01-12 00:00:00,DELCOR ASSET,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022013_oluxe_toc.cfm,True,True,False,False,False,-
+14779,OLUX,21142,NDA,2000-05-26 00:00:00,DELCOR ASSET CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-142_Olux.cfm,True,True,False,False,False,-
+14884,ODEFSEY,208351,NDA,2016-03-01 00:00:00,GILEAD SCIENCES INC,Prescription,False,-,-,-,-,False,False,-
+14985,NUVIGIL,21875,NDA,2007-06-15 00:00:00,CEPHALON,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021875_nuvigil_toc.cfm,True,True,False,False,False,-
+14988,NUVARING,21187,NDA,2001-10-03 00:00:00,ORGANON USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-187_NuvaRing.cfm,True,True,False,False,False,-
+15002,NUTRESTORE,21667,NDA,2004-06-10 00:00:00,EMMAUS MEDCL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-667_NutreStroe.cfm,True,True,False,False,False,-
+15026,NOXAFIL,22027,NDA,2006-10-20 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022027_noxafil_toc.cfm,True,True,False,False,False,-
+15027,NOXAFIL,22003,NDA,2006-09-15 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022003s000_NoxafilTOC.cfm,True,True,False,False,False,-
+15030,NOVOLOG PENFILL,20986,NDA,2000-06-07 00:00:00,NOVO NORDISK INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-986_NovoLog.cfm,True,True,False,True,False,-
+15031,NOVOLOG MIX 70/30 PENFILL,21172,NDA,2001-11-01 00:00:00,NOVO NORDISK INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21172_Novolog.cfm,True,False,False,False,False,-
+15060,NORVIR,20945,NDA,1999-06-29 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-945_Ritonovir.cfm,False,False,False,True,False,-
+15094,NORMOCARB HF 25,21910,NDA,2006-07-26 00:00:00,DIALYSIS SUPS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021910s000TOC.cfm,True,False,False,False,False,-
+15232,"NITROUS OXIDE, USP",208069,NDA,2014-11-25 00:00:00,STRATA MEDICAL INNOVATIONS,Prescription,False,-,-,-,-,False,False,-
+15233,NITROSTAT,21134,NDA,2000-05-01 00:00:00,PFIZER PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21134_Nitrostat.cfm,True,True,False,False,False,-
+15234,"NITROUS OXIDE, USP",206014,NDA,2013-09-06 00:00:00,NITROUS OXIDE OF CANADA,Prescription,False,-,-,-,-,False,False,-
+15238,"NITROUS OXIDE, USP",206009,NDA,2013-09-03 00:00:00,NITROUS OXIDE CORP,Prescription,False,-,-,-,-,False,False,-
+15242,NITROMIST,21780,NDA,2006-11-02 00:00:00,MIST PHARMS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021780_nitromist_toc.cfm,True,True,False,False,False,-
+15275,"NITROGEN, NF",206024,NDA,2013-09-07 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+15276,"NITROGEN, NF",205985,NDA,2013-08-27 00:00:00,PRAXAIR CANADA INC,Prescription,False,-,-,-,-,False,False,-
+15277,"NITROGEN, NF",205891,NDA,2013-07-30 00:00:00,MATHESON TRI-GAS INC,Prescription,False,-,-,-,-,False,False,-
+15278,"NITROGEN, NF",205866,NDA,2013-07-23 00:00:00,AIR PRODUCTS AND CHEMICALS INC,Prescription,False,-,-,-,-,False,False,-
+15279,"NITROGEN, NF",205863,NDA,2013-07-23 00:00:00,ASPEN AIR,Prescription,False,-,-,-,-,False,False,-
+15280,"NITROGEN, NF",205850,NDA,2013-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+15281,"NITROGEN, NF",205839,NDA,2013-07-16 00:00:00,AIRGAS MERCHANTS GASES LLC,Prescription,False,-,-,-,-,False,False,-
+15282,"NITROGEN, NF",205829,NDA,2013-07-13 00:00:00,AIR LIQUIDE AMERICA LP,Prescription,False,-,-,-,-,False,False,-
+15283,"NITROGEN, NF",205816,NDA,2013-07-05 00:00:00,LINDE GAS PUERTO RICO INC,Prescription,False,-,-,-,-,False,False,-
+15284,"NITROGEN, NF",205805,NDA,2013-07-14 00:00:00,NORCO INC,Prescription,False,-,-,-,-,False,False,-
+15285,"NITROGEN, NF",205766,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+15286,"NITROGEN, NF",205738,NDA,2015-06-23 00:00:00,AIR LIQUIDE LARGE INDUSTRIES US LP,Prescription,False,-,-,-,-,False,False,-
+15344,"NITRIOUS OXIDE, USP",205704,NDA,2013-06-16 00:00:00,AIR LIQUIDE AMERICA SPECIALITY GASES,Prescription,False,-,-,-,-,False,False,-
+15443,NICARDIPINE HYDROCHLORIDE,78405,NDA,2009-11-17 00:00:00,SUN PHARMA GLOBAL,Prescription,False,-,-,-,-,False,False,-
+15474,NEXIUM IV,21689,NDA,2005-03-31 00:00:00,ASTRAZENECA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021689s000TOC.cfm,True,True,False,True,False,-
+15478,NEXIUM,21957,NDA,2006-10-20 00:00:00,ASTRAZENECA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021957_nexium_toc.cfm,True,False,False,False,False,-
+15480,NEXIUM,21153,NDA,2001-02-20 00:00:00,ASTRAZENECA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21154_Nexium.cfm,True,True,False,True,False,-
+15482,NEXAVAR,21923,NDA,2005-12-20 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021923_s000_NexavarTOC.cfm,True,True,False,False,False,-
+15486,NEVANAC,21862,NDA,2005-08-19 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021862s000_NevanacTOC.cfm,True,True,False,False,False,-
+15508,NEURONTIN,21424,NDA,2002-05-24 00:00:00,PARKE DAVIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-397_21-423_21-424_Neurontin.cfm,True,True,False,False,False,-
+15509,NEURONTIN,21216,NDA,2000-10-12 00:00:00,PARKE DAVIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-216_20-235S15_20-882S2_21-129S5_Neurontin.cfm,True,True,False,False,False,-
+15510,NEURONTIN,21129,NDA,2000-03-02 00:00:00,PARKE DAVIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-129_Neurontin.cfm,False,False,False,False,False,-
+15511,NEURONTIN,20882,NDA,1998-10-09 00:00:00,PFIZER PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20882.cfm,True,False,False,False,False,-
+15516,NEUPRO,21829,NDA,2007-05-09 00:00:00,UCB INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021829s000TOC.cfm,True,True,False,False,False,-
+15518,NEULASTA,125031,BLA,2002-01-31 00:00:00,AMGEN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/125031_0000_NeulastaTOC.cfm,True,True,False,False,False,-
+15546,NEOPROFEN,21903,NDA,2006-04-13 00:00:00,RECORDATI RARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/21-903s000TOC.cfm,True,True,False,False,False,-
+15659,NATRECOR,20920,NDA,2001-08-10 00:00:00,SCIOS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-920_Natrecor.cfm,True,True,False,False,False,-
+15673,NASCOBAL,21642,NDA,2005-01-31 00:00:00,ENDO PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021642s000_NascobalTOC.cfm,True,False,False,False,False,-
+15729,NAPROXEN SODIUM,21920,NDA,2006-02-17 00:00:00,BIONPHARMA INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021920s000TOC.cfm,True,False,False,False,False,-
+15788,NAMENDA,21627,NDA,2005-04-18 00:00:00,FOREST LABS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021627s000_NamendaTOC.cfm,True,False,False,False,False,-
+15789,NAMENDA,21487,NDA,2003-10-16 00:00:00,FOREST LABS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-487_Namenda.cfm,True,True,False,False,False,-
+15879,NAGLAZYME,125117,BLA,2005-05-31 00:00:00,BIOMARIN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/125117s000_NaglazyneTOC.cfm,True,True,False,False,False,-
+15952,PYLERA,50786,NDA,2006-09-28 00:00:00,FOREST LABS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/050786s000_PyleraTOC.cfm,True,False,False,False,False,-
+15959,PULMICORT RESPULES,20929,NDA,2000-08-08 00:00:00,ASTRAZENECA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-929_Pulmicort.cfm,True,True,False,False,False,-
+15961,PULMICORT FLEXHALER,21949,NDA,2006-07-12 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021949_budesonide_toc.cfm,True,True,False,False,False,-
+15976,PROZAC WEEKLY,21235,NDA,2001-02-26 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-235_Prozac.cfm,True,True,False,False,False,-
+15978,PROVIGIL,20717,NDA,1998-12-24 00:00:00,CEPHALON,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020717A_Provigil.cfm,True,True,False,False,False,-
+15992,PROVAYBLUE,204630,NDA,2016-04-08 00:00:00,PROVEPHARM SAS,Prescription,False,-,-,-,-,False,False,-
+15999,PROTOPIC,50777,NDA,2000-12-08 00:00:00,LEO PHARMA AS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/50777_protopic.cfm,True,True,False,False,False,-
+16001,PROTONIX IV,20988,NDA,2001-03-22 00:00:00,WYETH PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20988_Protonix.cfm,True,True,False,False,False,-
+16004,PROTONIX,20987,NDA,2000-02-02 00:00:00,WYETH PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20987_Protonix.cfm,True,True,False,True,False,-
+16023,PROSOL 20% SULFITE FREE IN PLASTIC CONTAINER,20849,NDA,1998-08-26 00:00:00,BAXTER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020849_s000_Prosol.cfm,True,True,False,False,False,-
+16296,PROMETRIUM,20843,NDA,1998-12-16 00:00:00,ABBVIE INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020843_s000_PrometriumTOC.cfm,True,True,False,False,False,-
+16297,PROMETRIUM,19781,NDA,1998-05-14 00:00:00,VIRTUS PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19781.cfm,True,False,False,False,False,-
+16431,PROHANCE MULTIPACK,21489,NDA,2003-10-09 00:00:00,BRACCO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021489s000_ProhanceTOC.cfm,True,False,False,False,False,-
+16591,PROBUPHINE,204442,NDA,2016-05-26 00:00:00,BRAEBURN PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+16602,PROAIR RESPICLICK,205636,NDA,2015-03-31 00:00:00,TEVA BRANDED PHARM,Prescription,False,-,-,-,-,False,False,-
+16605,PROAIR HFA,21457,NDA,2004-10-29 00:00:00,TEVA BRANDED PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021457s000TOC.cfm,True,True,False,True,False,-
+16629,PRIMSOL,74973,NDA,2000-01-24 00:00:00,AYTU BIOSCIENCE INC,Prescription,False,-,-,-,-,False,False,-
+16646,PRILOSEC OTC,21229,NDA,2003-06-20 00:00:00,ASTRAZENECA PHARMS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-229_Prilosec.cfm,True,True,False,False,False,-
+16651,PRIFTIN,21024,NDA,1998-06-22 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/21024.cfm,True,True,False,False,False,-
+16652,PRIALT,21060,NDA,2004-12-28 00:00:00,JAZZ PHARMS INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-060_Prialt.cfm,True,True,False,False,False,-
+16659,PREVANTICS SWAB,21524,NDA,2005-06-03 00:00:00,PROF DSPLS,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021524s000TOC.cfm,True,True,False,False,False,-
+16667,PREVACID,21428,NDA,2002-08-30 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21428_20406s052_21281s007_PrevacidTOC.cfm,False,False,False,True,False,-
+16675,PREMPRO/PREMPHASE,21396,NDA,2003-06-04 00:00:00,WYETH AYERST,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-396_Prempro.cfm,True,True,False,False,False,-
+16684,PREMARIN,21417,NDA,2003-07-16 00:00:00,WYETH PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-417_Premarin.cfm,True,True,False,False,False,-
+16912,PRECEDEX,21038,NDA,1999-12-17 00:00:00,HOSPIRA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21-038_Precedex.cfm,True,True,False,False,False,-
+17260,PLIAGLIS,21717,NDA,2006-06-29 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021717_tradename_toc.cfm,True,True,False,False,False,-
+17373,PHOTREXA,203324,NDA,2016-07-15 00:00:00,AVEDRO INC,Prescription,False,-,-,-,-,False,False,-
+17374,PHOTREXA,203324,NDA,2016-07-15 00:00:00,AVEDRO INC,Prescription,False,-,-,-,-,False,False,-
+17376,PHOTOFRIN,21525,NDA,2003-08-01 00:00:00,AXCAN SCANDIPHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/020415s012_021525_PhotofrinTOC.cfm,True,True,False,False,False,-
+17615,PEXEVA,21299,NDA,2003-07-03 00:00:00,SEBELA IRELAND LTD,Prescription,False,-,-,-,-,False,False,-
+17684,PERIOCHIP,20774,NDA,1998-05-15 00:00:00,DEXCEL PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20774.cfm,True,True,False,False,False,-
+17697,PERFOROMIST,22007,NDA,2007-05-11 00:00:00,MYLAN SPECLT,Prescription,False,-,-,-,-,False,False,-
+17710,PEPCID COMPLETE,20958,NDA,2000-10-16 00:00:00,J AND J CONSUMER INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-958_Pepcid.cfm,True,True,False,False,False,-
+17712,PEPCID AC,20902,NDA,1999-08-05 00:00:00,J AND J CONSUMER INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020902_Pepcid.cfm,True,False,False,False,False,-
+17749,PENTETATE ZINC TRISODIUM,21751,NDA,2004-08-11 00:00:00,HAMELN PHARMA PLUS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-751_21-749_Pentetate.cfm,True,False,False,False,False,-
+17750,PENTETATE CALCIUM TRISODIUM,21749,NDA,2004-08-11 00:00:00,HAMELN PHARMA PLUS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-749_21-751_Pentetate.cfm,True,False,False,False,False,-
+17765,PENLAC,21022,NDA,1999-12-17 00:00:00,VALEANT BERMUDA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21-022_Penlac.cfm,True,True,False,False,False,-
+17841,PEGINTERFERON,125083,BLA,2004-06-04 00:00:00,HOFFMAN-LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/125083_peginterferon_toc.cfm,False,False,False,False,False,-
+17857,PEDIATRIC ADVIL,20812,NDA,1998-01-30 00:00:00,PFIZER,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020812_PediatricTOC.cfm,True,False,False,True,False,-
+17873,PAXIL CR,20936,NDA,1999-02-16 00:00:00,APOTEX TECHNOLOGIES,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-936_Paxil.cfm,True,True,False,False,False,-
+17884,PATADAY,21545,NDA,2004-12-22 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021545s000TOC.cfm,True,False,False,False,False,-
+17916,PARICALCITOL,205917,NDA,2014-11-18 00:00:00,HIKMA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205917Orig1s000TOC.cfm,True,False,False,False,False,-
+17923,PARICALCITOL,201657,NDA,2014-10-21 00:00:00,HOSPIRA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/201657Orig1s000TOC.cfm,True,False,False,False,False,-
+17968,PANRETIN,20886,NDA,1999-02-02 00:00:00,EISAI INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20886.cfm,True,True,False,False,False,-
+18002,PAMIDRONATE DISODIUM,21113,NDA,2002-03-04 00:00:00,WEST-WARD PHARMS INT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-113_Pamidronate.cfm,False,False,False,False,False,-
+18003,PALONOSETRON HYDROCHLORIDE,207963,NDA,2016-08-22 00:00:00,EXELA PHARMA SCIENCE,Prescription,False,-,-,-,-,False,False,-
+18007,PALONOSETRON HYDROCHLORIDE,203050,NDA,2016-03-01 00:00:00,DR REDDYS LABS LTD,Prescription,False,-,-,-,-,False,False,-
+18031,QVAR 80,20911,NDA,2000-09-15 00:00:00,TEVA BRANDED PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-911_Qvar.cfm,True,True,False,True,False,-
+18033,RYTHMOL SR,21416,NDA,2003-09-04 00:00:00,GLAXOSMITHKLINE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-416_Rythmol.cfm,True,True,False,False,False,-
+18043,RUBY-FILL,202153,NDA,2016-09-30 00:00:00,JUBILANT DRAXIMAGE,Prescription,False,-,-,-,-,False,False,-
+18052,ROZEREM,21782,NDA,2005-07-22 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021782s000_RozeremTOC.cfm,True,True,False,False,False,-
+18057,ROXICODONE,21011,NDA,2000-08-31 00:00:00,MALLINCKRODT INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-011_Roxicodone.cfm,True,True,False,False,False,-
+18061,ROSUVASTATIN ZINC,202172,NDA,2016-02-12 00:00:00,WATSON LABS INC,None (Tentative Approval),False,-,-,-,-,False,False,-
+18131,ROCALTROL,21068,NDA,1998-11-20 00:00:00,VALIDUS PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/021068.cfm,True,True,False,False,False,-
+18190,RITALIN LA,21284,NDA,2002-06-05 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-284_Ritalin.cfm,True,True,False,False,False,-
+18237,RISPERDAL CONSTA,21346,NDA,2003-10-29 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21346_RisperdalTOC.cfm,True,True,False,False,False,-
+18238,RISPERDAL,21444,NDA,2003-04-02 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021444_risperdal.cfm,True,False,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/020272_s046_risperdal_toc.cfm
+18244,RIOMET,21591,NDA,2003-09-11 00:00:00,SUN PHARM INDS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-591_Riomet.cfm,False,False,False,False,False,-
+18310,RHINOCORT ALLERGY,20746,NDA,1999-10-01 00:00:00,ASTRAZENECA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20746_Rhinocort.cfm,True,True,False,False,False,-
+18318,REVLIMID,21880,NDA,2005-12-27 00:00:00,CELGENE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021880s000_RevlimidTOC.cfm,True,False,False,False,False,-
+18328,REVATIO,21845,NDA,2005-06-03 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021845s000_RevatioTOC.cfm,True,True,False,False,False,-
+18330,RETISERT,21737,NDA,2005-04-08 00:00:00,BAUSCH AND LOMB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021737s000TOC.cfm,True,True,False,False,False,-
+18341,RESTASIS,50790,NDA,2002-12-23 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-023_Restasis.cfm,True,True,False,False,False,-
+18387,REQUIP XL,22008,NDA,2008-07-01 00:00:00,GLAXOSMITHKLINE LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022008_requip_toc.cfm,True,True,False,False,False,-
+18409,RENOVA,21108,NDA,2000-08-31 00:00:00,VALEANT PHARMS NORTH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-108_Renova.cfm,True,True,False,False,False,-
+18424,RENAGEL,21179,NDA,2000-07-12 00:00:00,GENZYME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-179_Renagel.cfm,False,False,False,False,False,-
+18426,REMODULIN,21272,NDA,2002-05-21 00:00:00,UNITED THERAP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-272_Remodulin.cfm,True,True,False,False,False,-
+18428,REMERON SOLTAB,21208,NDA,2001-01-12 00:00:00,ORGANON USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/021208_remeron.cfm,True,False,False,False,False,-
+18429,RELISTOR,208271,NDA,2016-07-19 00:00:00,SALIX PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+18430,RELPAX,21016,NDA,2002-12-26 00:00:00,PFIZER IRELAND,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21016_Relpax.cfm,True,False,False,False,False,-
+18432,RELENZA,21036,NDA,1999-07-26 00:00:00,GLAXOSMITHKLINE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21036.cfm,True,True,False,False,False,-
+18450,RECLAST,21817,NDA,2007-04-16 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021817TOC.cfm,True,True,False,False,False,-
+18452,REBETOL,21546,NDA,2003-07-29 00:00:00,SCHERING,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-546_Rebetol.cfm,True,True,False,False,False,-
+18453,READI-CAT 2 SMOOTHIES,208143,NDA,2016-01-15 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+18454,READI-CAT 2,208143,NDA,2016-01-15 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+18457,RAZADYNE ER,21615,NDA,2004-12-22 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021615s000_RazadyneTOC.cfm,True,True,False,False,False,-
+18458,RAZADYNE,21169,NDA,2001-02-28 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-169_Reminyl.cfm,True,True,False,False,False,-
+18459,RAYALDEE,208010,NDA,2016-06-17 00:00:00,OPKO IRELAND GLOBAL,Prescription,False,-,-,-,-,False,False,-
+18494,RAPAMUNE,21110,NDA,2000-08-25 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21110_Rapamune.cfm,True,True,False,True,False,-
+18495,RAPAMUNE,21083,NDA,1999-09-15 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21083A.cfm,True,True,False,True,False,-
+18569,RANEXA,21526,NDA,2006-01-27 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021526_s000_Ranexa.cfm,True,True,False,False,False,-
+18593,RADIOGARDASE (PRUSSIAN BLUE),21626,NDA,2003-10-02 00:00:00,HEYL CHEMISCH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-626_Radiogardase.cfm,True,False,False,False,False,-
+18727,QOLIANA,21764,NDA,2006-05-22 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021764s000TOC.cfm,True,True,False,False,False,-
+18735,QBRELIS,208401,NDA,2016-07-29 00:00:00,SILVERGATE PHARMS,Prescription,False,-,-,-,-,False,False,-
+18741,SYNTHROID,21402,NDA,2002-07-24 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-402_Synthroid.cfm,True,False,False,False,False,-
+18747,SYNERCID,50748,NDA,1999-09-21 00:00:00,KING PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/50747_Synercid.cfm,True,True,False,False,False,-
+18748,SYNERCID,50747,NDA,1999-09-21 00:00:00,KING PHARMS,Prescription,False,-,-,-,-,False,False,-
+18749,SYNERA,21623,NDA,2005-06-23 00:00:00,GALEN SPECIALTY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021623TOC.cfm,True,True,False,False,False,-
+18750,SYNERCID,50747,NDA,1999-09-21 00:00:00,KING PHARMS,Prescription,False,-,-,-,-,False,False,-
+18752,SYNDROS,205525,NDA,2016-07-01 00:00:00,INSYS DEV CO INC,Prescription,False,-,-,-,-,False,False,-
+18768,SYMBYAX,21520,NDA,2003-12-24 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21520_SymbyaxTOC.cfm,True,False,False,False,False,-
+18769,SYMBICORT,21929,NDA,2006-07-21 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021929_symbicort_toc.cfm,True,True,False,False,False,-
+18773,SUTENT,21968,NDA,2006-01-26 00:00:00,CPPI CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021938s000_021968s000_Stutent.cfm,True,True,False,False,False,-
+18775,SUSTOL,22445,NDA,2016-08-09 00:00:00,HERON THERAPS INC,Prescription,False,-,-,-,-,False,False,-
+18777,SUSTIVA,20972,NDA,1998-09-17 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20972.cfm,False,True,False,False,False,-
+18902,SULFAMYLON,19832,NDA,1998-06-05 00:00:00,MYLAN INSTITUTIONAL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19832.cfm,False,False,False,False,False,-
+19000,SUCRAID,20772,NDA,1998-04-09 00:00:00,QOL MEDCL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20772.cfm,True,True,False,False,False,-
+19015,STRIANT,21543,NDA,2003-06-19 00:00:00,AUXILIUM PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-543_Striant.cfm,True,True,False,False,False,-
+19067,STELARA,761044,BLA,2016-09-23 00:00:00,JANSSEN BIOTECH,Prescription,False,-,-,-,-,False,False,-
+19096,STARLIX,21204,NDA,2000-12-22 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-204_Stsrlix.cfm,True,True,False,False,False,-
+19098,STALEVO 50,21485,NDA,2003-06-11 00:00:00,ORION PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-485_Stalevo.cfm,True,False,False,False,False,-
+19105,SPRYCEL,22072,NDA,2006-06-28 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021986_022072_SprycelTOC.cfm,True,True,False,False,False,-
+19155,SPIRIVA,21395,NDA,2004-01-30 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-395_Spiriva.cfm,True,True,False,False,False,-
+19213,SONATA,20859,NDA,1999-08-13 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20859_Sonata.cfm,True,True,False,False,False,-
+19222,SOMAVERT,21106,NDA,2003-03-25 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021106_somavert.cfm,True,True,False,False,False,-
+19223,SOMATULINE DEPOT,22074,NDA,2007-08-30 00:00:00,IPSEN PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022074s000TOC.cfm,True,True,False,False,False,-
+19229,SOLTAMOX,21807,NDA,2005-10-29 00:00:00,MIDATECH PHARMA US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021807s000TOC.cfm,True,False,False,False,False,-
+19233,SOLIRIS,125166,BLA,2007-03-16 00:00:00,ALEXION PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/125166s0000TOC.cfm,True,True,False,False,False,-
+19236,SOLARAZE,21005,NDA,2000-10-16 00:00:00,FOUGERA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21005_Solaraze.cfm,True,True,False,False,False,-
+19350,SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER,21569,NDA,2006-07-27 00:00:00,LIEBEL-FLARSHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021569s000TOC.cfm,True,False,False,False,False,-
+19400,SMOFLIPID 20%,207648,NDA,2016-07-13 00:00:00,FRESENIUS KABI USA,Prescription,False,-,-,-,-,False,False,-
+19441,SINGULAIR,21409,NDA,2002-07-26 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-409_Singulair.cfm,True,True,False,False,False,-
+19442,SINGULAIR,20830,NDA,1998-02-20 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20830_Singulair.cfm,True,True,False,False,False,-
+19443,SINGULAIR,20829,NDA,1998-02-20 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020829s000_SingulairTOC.cfm,True,True,False,False,False,-
+19464,SIMPONI ARIA,125433,BLA,2013-07-18 00:00:00,JANSSEN BIOTECH,Prescription,False,-,-,-,-,False,False,-
+19554,SERNIVO,208079,NDA,2016-02-05 00:00:00,PROMIUS PHARMA LLC,Prescription,False,-,-,-,-,False,False,-
+19567,SEPTOCAINE,22010,NDA,2006-03-30 00:00:00,DEPROCO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/022010_septocaine_toc.cfm,True,True,False,False,False,-
+19568,SEPTOCAINE,20971,NDA,2000-04-03 00:00:00,DEPROCO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020971_SeptocaineTOC.cfm,True,True,False,False,False,-
+19584,SENSIPAR,21688,NDA,2004-03-08 00:00:00,AMGEN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-688_Sensipar.cfm,True,True,False,False,False,-
+19594,SELZENTRY,22128,NDA,2007-08-06 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022128_selzentry_toc.cfm,True,True,False,True,False,-
+19619,SEEBRI,207923,NDA,2015-10-29 00:00:00,NOVARTIS PHARMS CORP,Prescription,False,-,-,-,-,False,False,-
+19651,SEASONALE,21544,NDA,2003-09-05 00:00:00,TEVA BRANDED PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-544_Seasonale.cfm,True,True,False,False,False,-
+19675,SARAFEM,21860,NDA,2006-05-19 00:00:00,APIL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021860_sarafem_toc.cfm,True,False,False,False,False,-
+19684,SANDOSTATIN LAR,21008,NDA,1998-11-25 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/021008.cfm,True,True,False,True,False,-
+19686,SANCUSO,22198,NDA,2008-09-12 00:00:00,KYOWA KIRIN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022198_sancuso_toc.cfm,True,True,False,False,False,-
+19710,UVADEX,20969,NDA,1999-02-25 00:00:00,MALLINCKRODT HOSP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20969.cfm,True,True,False,False,False,-
+19724,UROXATRAL,21287,NDA,2003-06-12 00:00:00,CONCORDIA PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021287_uroxatral_toc.cfm,True,True,False,False,False,-
+19746,UNITHROID,21210,NDA,2000-08-21 00:00:00,STEVENS J,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21210_Unithroid.cfm,True,False,False,False,False,-
+19772,ULTRAVIST (PHARMACY BULK),21425,NDA,2002-09-20 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021425_ultravist.cfm,False,False,False,False,False,-
+19778,ULTRAM ER,21692,NDA,2005-09-08 00:00:00,VALEANT PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021692s000_RalivaTOC.cfm,True,True,False,False,False,-
+19788,ULTRACET,21123,NDA,2001-08-15 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21123_Ultracet.cfm,True,True,False,False,False,-
+19794,UCERIS,205613,NDA,2014-10-07 00:00:00,VALEANT PHARMS INTL,Prescription,False,-,-,-,-,False,False,-
+19801,TYZEKA,22011,NDA,2006-10-25 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/22011s000TOC.cfm,True,True,False,False,False,-
+19804,TYSABRI,125104,BLA,2004-11-23 00:00:00,BIOGEN IDEC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/125104s000_Natalizumab.cfm,True,True,False,False,False,-
+19820,TYKERB,22059,NDA,2007-03-13 00:00:00,NOVARTIS PHARMS CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022059s000TOC.cfm,True,True,False,False,False,-
+19822,TYGACIL,21821,NDA,2005-06-15 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/21-821_Tygacil.cfm,True,True,False,False,False,-
+19843,TRUVADA,21752,NDA,2004-08-02 00:00:00,GILEAD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021752s000_TruvadaTOC.cfm,True,False,False,False,False,-
+19846,TROXYCA ER,207621,NDA,2016-08-19 00:00:00,PFIZER INC,Prescription,False,-,-,-,-,False,False,-
+19870,TROKENDI XR,201635,NDA,2013-08-16 00:00:00,SUPERNUS PHARMS,Prescription,False,-,-,-,-,False,False,-
+19872,TRIZIVIR,21205,NDA,2000-11-14 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-205_Trizinir.cfm,True,True,False,False,False,-
+19875,TRIVAGIZOLE 3,21143,NDA,2000-04-12 00:00:00,TARO,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21143_Trivagizole3.cfm,True,True,False,False,False,-
+19876,TRIUMEQ,205551,NDA,2014-08-22 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205551Orig1s000TOC.cfm,True,True,False,False,False,-
+19886,TRISENOX,21248,NDA,2000-09-25 00:00:00,CEPHALON,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-248_Trisenox.cfm,True,False,False,False,False,-
+19969,TRILEPTAL,21285,NDA,2001-05-25 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-285_Trileptal.cfm,False,True,False,True,False,-
+19982,TRILEPTAL,21014,NDA,2000-01-14 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21-014_Trileptal.cfm,True,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021014_s003_TrileptalTOC.cfm
+20013,TRIESENCE,22223,NDA,2007-11-29 00:00:00,ALCON RES,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022048s000_022223s000_TOC.cfm,True,True,False,False,False,-
+20024,TRICOR,21656,NDA,2004-11-05 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021656s000_TricorTOC.cfm,True,False,False,False,False,-
+20172,TRI-LUMA,21112,NDA,2002-01-18 00:00:00,GALDERMA LABS LP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-112_Tri-Luma.cfm,True,True,False,False,False,-
+20204,TRELSTAR,21288,NDA,2001-06-29 00:00:00,ALLERGAN SALES LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-288_Trelstar.cfm,True,False,False,False,False,-
+20205,TRELSTAR,20715,NDA,2000-06-15 00:00:00,ALLERGAN SALES LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-715_Trelstar.cfm,True,True,False,False,False,-
+20240,TRAVATAN Z,21994,NDA,2006-09-21 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021994s000TOC.cfm,True,False,False,False,False,-
+20358,TRACLEER,21290,NDA,2001-11-20 00:00:00,ACTELION PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-290_Tracleer.cfm,True,True,False,False,False,-
+20392,TORISEL,22088,NDA,2007-05-30 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022088s000TOC.cfm,True,True,False,True,False,-
+20443,TOPAMAX SPRINKLE,20844,NDA,1998-10-26 00:00:00,JANSSEN PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020844s000_Topamax.cfm,True,False,False,True,False,-
+20562,TOBRAMYCIN SULFATE,50789,NDA,2004-07-14 00:00:00,FRESENIUS KABI USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/050789s000_TobramycinTOC.cfm,True,True,False,False,False,-
+20594,TIROSINT,22121,NDA,2007-08-01 00:00:00,INST BIOCHIMIQUE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022121_tirosint_toc.cfm,True,False,False,False,False,-
+20595,TIROSINT,21924,NDA,2006-10-13 00:00:00,INSTITUT BIOCHIMIQUE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021924s000TOC.cfm,True,False,False,False,False,-
+20598,TINDAMAX,21682,NDA,2004-05-17 00:00:00,MISSION PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-618_21-681_21-682_Tindamax.cfm,True,True,False,False,False,-
+20645,TIMOLOL MALEATE,20963,NDA,1998-10-21 00:00:00,ALCON RES LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020963_timolol.cfm,True,False,False,True,False,-
+20653,TIKOSYN,20931,NDA,1999-10-01 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-931_Tikosyn.cfm,True,True,False,False,False,-
+20683,THYROGEN,20898,NDA,1998-11-30 00:00:00,GENZYME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20898_Thyrogen.cfm,True,True,False,False,False,-
+20911,THALOMID,21430,NDA,2006-05-25 00:00:00,CELGENE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021430s000TOC.cfm,True,True,False,False,False,-
+20917,THALOMID,20785,NDA,1998-07-16 00:00:00,CELGENE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/020785s000_ThalidomideTOC.cfm,True,True,False,False,False,-
+21010,TESTIM,21454,NDA,2002-10-31 00:00:00,AUXILIUM PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-454_Testim.cfm,True,False,False,False,False,-
+21051,TERCONAZOLE,21735,NDA,2004-10-01 00:00:00,NYCOMED US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021735s000_TerconazoleTOC.cfm,True,True,False,False,False,-
+21150,TEMODAR,21029,NDA,1999-08-11 00:00:00,MERCK SHARP DOHME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21029_Temodar.cfm,True,True,False,False,False,-
+21176,TEKTURNA,21985,NDA,2007-03-05 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021985s000TOC.cfm,True,True,False,False,False,-
+21213,TECENTRIQ,761041,BLA,2016-10-18 00:00:00,GENENTECH INC,Prescription,False,-,-,-,-,False,False,-
+21231,TASMAR,20697,NDA,1998-01-29 00:00:00,VALEANT PHARMS LLC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20697_Tasmar.cfm,True,True,False,False,False,-
+21234,TARGRETIN,21056,NDA,2000-06-28 00:00:00,VALEANT LUXEMBOURG,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-056_Targretin.cfm,True,True,False,False,False,-
+21235,TARGRETIN,21055,NDA,1999-12-29 00:00:00,VALEANT LUXEMBOURG,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21055_Targretin.cfm,True,True,False,False,False,-
+21240,TARCEVA,21743,NDA,2004-11-18 00:00:00,OSI PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-743_Tarceva.cfm,True,True,False,False,False,-
+21272,TAMIFLU,21087,NDA,1999-10-27 00:00:00,ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/21087_Tamiflu.cfm,True,True,False,True,False,-
+21282,TALC,21388,NDA,2003-12-15 00:00:00,BRYAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-388_SterileTalc.cfm,True,True,False,False,False,-
+21319,VYVANSE,21977,NDA,2007-02-23 00:00:00,SHIRE DEVELOPMENT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021977s000TOC.cfm,True,True,False,True,False,-
+21320,VYTORIN,21687,NDA,2004-07-23 00:00:00,MSD INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-687_Vytorin.cfm,True,True,False,False,False,-
+21322,VUSION,21026,NDA,2006-02-16 00:00:00,DELCOR ASSET CORP,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021026_vusion_toc.cfm,True,True,False,False,False,-
+21355,VOGELXO,204399,NDA,2014-06-04 00:00:00,UPSHER-SMITH LABS,Prescription,False,-,-,-,-,False,False,-
+21359,VIVITROL,21897,NDA,2006-04-13 00:00:00,ALKERMES,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021897_toc_Vivitrol.cfm,True,True,False,False,False,-
+21425,VISUDYNE,21119,NDA,2000-04-12 00:00:00,VALEANT LUXEMBOURG,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-119_Visudyne.cfm,True,True,False,False,False,-
+21439,VISIONBLUE,21670,NDA,2004-12-16 00:00:00,DORC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-670_VisionBlue.cfm,True,False,False,False,False,-
+21448,VIREAD,21356,NDA,2001-10-26 00:00:00,GILEAD SCIENCES INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-356_Viread.cfm,True,True,False,True,False,-
+21451,VIRAMUNE,20933,NDA,1998-09-11 00:00:00,BOEHRINGER INGELHEIM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-933_20-636S009_Viramune.cfm,True,False,False,True,False,-
+21454,VIRACEPT,21503,NDA,2003-04-30 00:00:00,AGOURON,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021503s000_ViraceptTOC.cfm,True,True,False,True,False,-
+21502,VIGAMOX,21598,NDA,2003-04-15 00:00:00,ALCON PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-598_Vigamox.cfm,True,False,False,False,False,-
+21504,VIEKIRA XR,208624,NDA,2016-07-22 00:00:00,ABBVIE INC,Prescription,False,-,-,-,-,False,False,-
+21508,VIDEX EC,21183,NDA,2000-10-31 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-183_Videx.cfm,False,True,False,True,False,-
+21511,VIDAZA,50794,NDA,2004-05-19 00:00:00,CELGENE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/50-794_Vidaza.cfm,True,True,False,False,False,-
+21538,VIAGRA,20895,NDA,1998-03-27 00:00:00,PFIZER IRELAND,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/NDA/98/viagra/viagra_toc.cfm,False,True,False,False,False,-
+21541,VFEND,21630,NDA,2003-12-19 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021630s000_VfendTOC.cfm,True,False,False,False,False,-
+21542,VFEND,21466,NDA,2003-11-14 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021464s000_021466s000_VfendTOC.cfm,True,True,False,False,False,-
+21543,VFEND,21267,NDA,2002-05-24 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-266_21-267_Vfend.cfm,True,True,False,False,False,-
+21552,VESICARE,21518,NDA,2004-11-19 00:00:00,ASTELLAS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-518_VesiCare.cfm,True,True,False,False,False,-
+21560,VERMOX,208398,NDA,2016-10-19 00:00:00,JANSSEN PHARMS,Prescription,False,-,-,-,-,False,False,-
+21565,VERELAN PM,20943,NDA,1998-11-25 00:00:00,RECRO GAINESVILLE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-943_VerelanPM.cfm,True,False,False,False,False,-
+21566,VEREGEN,21902,NDA,2006-10-31 00:00:00,MEDIGENE AG,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021902s000TOC.cfm,True,True,False,False,False,-
+21636,VENTOLIN HFA,20983,NDA,2001-04-19 00:00:00,GLAXOSMITHKLINE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/20-983_Ventolin-HFA.cfm,True,True,False,False,False,-
+21643,VENOFER,21135,NDA,2000-11-06 00:00:00,LUITPOLD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21135_Venofer.cfm,True,True,False,False,False,-
+21683,VELCADE,21602,NDA,2003-05-13 00:00:00,MILLENNIUM PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21602_Velcade.cfm,True,False,False,False,False,-
+21707,VECTIBIX,125147,BLA,2006-09-27 00:00:00,AMGEN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/125147s0000TOC.cfm,True,True,False,False,False,-
+21726,VARIBAR PUDDING,208844,NDA,2016-10-14 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+21738,VAPRISOL,22016,NDA,2007-02-28 00:00:00,CUMBERLAND PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022016_vaprisol_toc.cfm,True,False,False,False,False,-
+21742,VANTAS,21732,NDA,2004-10-12 00:00:00,ENDO PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021732s000_VantasTOC.cfm,True,True,False,False,False,-
+21745,VANOS,21758,NDA,2005-02-11 00:00:00,MEDICIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021758s000TOC.cfm,True,True,False,False,False,-
+21746,VANIQA,21145,NDA,2000-07-27 00:00:00,SKINMEDICA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21145_Vaniga.cfm,True,True,False,False,False,-
+21747,VANDAZOLE,21806,NDA,2005-05-20 00:00:00,TEVA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021806s000TOC.cfm,True,True,False,False,False,-
+21800,VALTROPIN,21905,NDA,2007-04-19 00:00:00,LG LIFE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021905_valtropin_toc.cfm,True,True,False,False,False,-
+21803,VALSTAR PRESERVATIVE FREE,20892,NDA,1998-09-25 00:00:00,ENDO PHARM,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20892.cfm,True,True,False,False,False,-
+21860,VALCYTE,21304,NDA,2001-03-29 00:00:00,HOFFMANN LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21304_Valcyte.cfm,True,True,False,False,False,-
+21903,WELLBUTRIN XL,21515,NDA,2003-08-29 00:00:00,VALEANT INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021515_Wellbutrin.cfm,True,False,False,False,False,-
+21925,WELCHOL,21176,NDA,2000-05-26 00:00:00,DAIICHI SANKYO,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-141_Welchol.cfm,True,True,False,True,False,-
+21931,YOSPRALA,205103,NDA,2016-09-14 00:00:00,ARALEZ PHARMS,Prescription,False,-,-,-,-,False,False,-
+21934,YAZ,22045,NDA,2007-01-26 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022045s000TOC.cfm,True,True,False,False,False,-
+21935,YAZ,21873,NDA,2006-10-04 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021873_yaz_toc.cfm,True,True,False,False,False,-
+21936,YAZ,21676,NDA,2006-03-16 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021676s000TOC.cfm,True,True,False,False,False,-
+21937,YASMIN,21098,NDA,2001-05-11 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-098_Yasmin.cfm,True,True,False,False,False,-
+21941,XYREM,21196,NDA,2002-07-17 00:00:00,JAZZ PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-196_Xyrem.cfm,True,True,False,False,False,-
+21969,XTAMPZA ER,208090,NDA,2016-04-26 00:00:00,COLLEGIUM PHARM INC,Prescription,False,-,-,-,-,False,False,-
+21970,XOPENEX HFA,21730,NDA,2005-03-11 00:00:00,SUNOVION,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021730s000TOC.cfm,True,True,False,False,False,-
+21971,XOPENEX,20837,NDA,1999-03-25 00:00:00,OAK PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20837_Xenopex.cfm,True,True,False,True,False,-
+21972,XOLEGEL,21946,NDA,2006-07-28 00:00:00,AQUA PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021946s000TOC.cfm,True,True,False,False,False,-
+21979,XIFAXAN,21361,NDA,2004-05-25 00:00:00,SALIX PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-361_Xifaxan.cfm,True,True,False,False,False,-
+21992,XENICAL,20766,NDA,1999-04-23 00:00:00,HOFFMANN LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/020766a.cfm,True,True,False,True,False,-
+21994,XELODA,20896,NDA,1998-04-30 00:00:00,HOFFMANN LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20896.cfm,True,False,False,False,False,-
+21995,XELJANZ XR,208246,NDA,2016-02-23 00:00:00,PFIZER INC,Prescription,False,-,-,-,-,False,False,-
+22000,XANAX XR,21434,NDA,2003-01-17 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-434_Xanax.cfm,True,True,False,False,False,-
+22012,ZYVOX,21132,NDA,2000-04-18 00:00:00,PHARMACIA AND UPJOHN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21130_Zyvox.cfm,True,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-130s003_21131s003_21132s003_ZyvoxTOC.cfm
+22016,ZYRTEC-D 12 HOUR,21150,NDA,2001-08-10 00:00:00,J AND J CONSUMER INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-150_Zyrtec-D.cfm,True,True,False,False,False,-
+22021,ZYPREXA ZYDIS,21086,NDA,2000-04-06 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-086_ZyprexaZydis.cfm,False,False,False,False,False,-
+22024,ZYPREXA,21253,NDA,2004-03-29 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21253_Zyprexa.TOC.cfm,True,True,False,False,False,-
+22026,ZYMAR,21493,NDA,2003-03-28 00:00:00,ALLERGAN,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021493_Zymar.cfm,True,True,False,False,False,-
+22028,ZYLET,50804,NDA,2004-12-14 00:00:00,BAUSCH AND LOMB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/50804_ZyletTOC.cfm,True,False,False,False,False,-
+22032,ZYFLO CR,22052,NDA,2007-05-30 00:00:00,CHIESI USA INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022052_zyflo_toc.cfm,True,True,False,False,False,-
+22045,ZOVIRAX,21478,NDA,2002-12-30 00:00:00,VIB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-478_Zovirax.cfm,True,False,False,False,False,-
+22058,ZOSYN IN PLASTIC CONTAINER,50750,NDA,1998-02-24 00:00:00,WYETH PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+22082,ZONEGRAN,20789,NDA,2000-03-27 00:00:00,SUNOVION PHARMS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/020789_Zonegran.cfm,True,True,False,False,False,-
+22083,ZOMIG-ZMT,21231,NDA,2001-02-13 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-231_Zomig.cfm,True,True,False,False,False,-
+22084,ZOMIG,21450,NDA,2003-09-30 00:00:00,ASTRAZENECA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-450_Zomig.cfm,True,True,False,True,False,-
+22087,ZOMETA,21386,NDA,2002-02-22 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-386_Zometa.cfm,True,True,False,False,False,-
+22124,ZOLOFT,20990,NDA,1999-12-07 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20990_Zoloft.cfm,True,False,False,True,True,"http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/019839s044,020990s010_ZoloftTOC.cfm"
+22141,ZOLINZA,21991,NDA,2006-10-06 00:00:00,MERCK,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021991s000_ZolinzaTOC.cfm,True,False,False,False,False,-
+22148,ZOLEDRONIC ACID,204016,NDA,2015-12-28 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+22150,ZOLEDRONIC ACID,203231,NDA,2013-08-02 00:00:00,ACS DOBFAR INFO SA,Prescription,False,-,-,-,-,False,False,-
+22183,ZOFRAN ODT,20781,NDA,1999-01-27 00:00:00,NOVARTIS PHARMS CORP,Prescription,False,-,-,-,-,False,False,-
+22190,ZMAX,50797,NDA,2005-06-10 00:00:00,PF PRISM CV,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/050797s000TOC.cfm,True,True,False,True,False,-
+22191,ZITHROMAX,50784,NDA,2002-05-24 00:00:00,PFIZER,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/50-784_Zithromax.cfm,True,True,False,False,False,-
+22208,ZINPLAVA,761046,BLA,2016-10-21 00:00:00,MERCK SHARP DOHME,Prescription,False,-,-,-,-,False,False,-
+22210,ZINGO,22114,NDA,2007-08-16 00:00:00,POWDER PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022114_zingo_toc.cfm,True,True,False,True,False,-
+22235,ZIANA,50802,NDA,2006-11-07 00:00:00,MEDICIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/050802_ziana_toc.cfm,True,True,False,False,False,-
+22236,ZIAGEN,20978,NDA,1998-12-17 00:00:00,VIIV HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20-977_Ziagen.cfm,True,False,False,False,False,-
+22238,ZEVALIN,125019,BLA,2002-02-19 00:00:00,SPECTRUM PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/125019_0000_ZevalinTOC.cfm,True,True,False,False,False,-
+22240,ZETIA,21445,NDA,2002-10-25 00:00:00,MSD INTL GMBH,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21445_Zetia.cfm,True,True,False,True,False,-
+22252,ZEMBRACE SYMTOUCH,208223,NDA,2016-01-28 00:00:00,DR REDDYS LABS LTD,Prescription,False,-,-,-,-,False,False,-
+22253,ZEMPLAR,21606,NDA,2005-05-26 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021606s000TOC.cfm,True,True,False,False,False,-
+22255,ZEMPLAR,20819,NDA,1998-04-17 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20819_Zemplar.cfm,True,True,False,True,False,-
+22257,ZELAPAR,21479,NDA,2006-06-14 00:00:00,VALEANT PHARM INTL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021479_zelapar_toc.cfm,True,True,False,False,False,-
+22261,ZEGERID,21849,NDA,2006-02-27 00:00:00,SANTARUS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021849TOC.cfm,True,False,False,False,False,-
+22262,ZEGERID,21636,NDA,2004-06-15 00:00:00,SANTARUS INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021636s000_ZegeridTOC.cfm,True,False,False,False,False,-
+22273,ZAVESCA,21348,NDA,2003-07-31 00:00:00,ACTELION PHARMS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-348_Zavesca.cfm,True,True,False,False,False,-
+22287,ZANTAC 150,21698,NDA,2004-08-31 00:00:00,BOEHRINGER INGELHEIM,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021698s000TOC.cfm,True,True,False,False,False,-
+22292,ZANAFLEX,21447,NDA,2002-08-29 00:00:00,ACORDA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-447_Zanaflex.cfm,True,False,False,False,False,-

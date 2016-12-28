@@ -1,0 +1,201 @@
+,Name,appNo,appType,approvDate,Company,marketStat,reviewAvailable,reviewPageLink,medReviewAvailable,statReviewAvailable,sumReviewAvailable,PatientPopulationAltered,PPAReviewAvailable,PPAReviewLink
+442,BEVESPI AEROSPHERE,208294,NDA,2016-04-25 00:00:00,PEARL THERAPS INC,Prescription,False,-,-,-,-,False,False,-
+517,BETAPACE AF,21151,NDA,2000-02-22 00:00:00,COVIS PHARMA SARL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/021151_s000_BetapaceAFTOC.cfm,False,False,False,False,False,-
+707,BASAGLAR,205692,NDA,2015-12-16 00:00:00,ELI LILLY AND CO,Prescription,False,-,-,-,-,False,False,-
+886,AZACITIDINE,208216,NDA,2016-04-29 00:00:00,ACTAVIS LLC,Prescription,False,-,-,-,-,False,False,-
+921,AUVI-Q,201739,NDA,2012-08-10 00:00:00,KALEO INC,Prescription,False,-,-,-,-,False,False,-
+1163,ARGATROBAN IN SODIUM CHLORIDE,22485,NDA,2011-05-09 00:00:00,SANDOZ,Prescription,False,-,-,-,-,False,False,-
+1393,AMOXIL,50754,NDA,1998-07-10 00:00:00,DR REDDYS LABS INC,Prescription,False,-,-,-,-,False,False,-
+1713,AMJEVITA,761024,BLA,2016-09-23 00:00:00,AMGEN INC,Prescription,False,-,-,-,-,False,False,-
+1954,AMELUZ,208081,NDA,2016-05-10 00:00:00,BIOFRONTERA,Prescription,False,-,-,-,-,False,False,-
+2062,ALORA,21310,NDA,2002-04-05 00:00:00,WATSON LABS,Prescription,False,-,-,-,-,False,False,-
+2249,ALAVERT,21375,NDA,2002-12-19 00:00:00,PFIZER,Over-the-counter,False,-,-,-,-,False,False,-
+2296,ADZENYS XR-ODT,204326,NDA,2016-01-28 00:00:00,NEOS THERAPS,Prescription,False,-,-,-,-,False,False,-
+2374,ACZONE,207154,NDA,2016-02-24 00:00:00,ALLERGAN INC,Prescription,False,-,-,-,-,False,False,-
+2490,ACTIMMUNE,103836,BLA,1999-02-25 00:00:00,VIDARA THERAPEUTICS RESEARCH LTD,Prescription,False,-,-,-,-,False,False,-
+3115,CONZIP,22370,NDA,2010-05-07 00:00:00,CIPHER PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+3129,COMTAN,20796,NDA,1999-10-19 00:00:00,ORION PHARMA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20796_Comtan.cfm,False,True,False,False,False,-
+4355,CETYLEV,207916,NDA,2016-01-29 00:00:00,ARBOR PHARMS LLC,Prescription,False,-,-,-,-,False,False,-
+4628,CEFOXITIN AND DEXTROSE IN DUPLEX CONTAINER,65214,NDA,2006-03-10 00:00:00,B BRAUN,Prescription,False,-,-,-,-,False,False,-
+4639,CEFOTETAN AND DEXTROSE IN DUPLEX CONTAINER,65430,NDA,2007-08-09 00:00:00,B BRAUN,Prescription,False,-,-,-,-,False,False,-
+4825,CARNEXIV,206030,NDA,2016-10-07 00:00:00,LUNDBECK LLC,Prescription,False,-,-,-,-,False,False,-
+4909,"CARBON DIOXIDE, USP",207166,NDA,2014-05-24 00:00:00,RELIANT HOLDINGS LTD,Prescription,False,-,-,-,-,False,False,-
+4910,"CARBON DIOXIDE, USP",206025,NDA,2013-09-07 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+4911,"CARBON DIOXIDE, USP",205852,NDA,2013-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+4912,"CARBON DIOXIDE, USP",205846,NDA,2013-07-20 00:00:00,AIRGAS CARBONIC INC,Prescription,False,-,-,-,-,False,False,-
+4913,"CARBON DIOXIDE, USP",205815,NDA,2013-07-05 00:00:00,LINDE MERCHANT PRODUCTIONS INC,Prescription,False,-,-,-,-,False,False,-
+4915,"CARBON DIOXIDE, USP",205764,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+5051,CAMBIA,22165,NDA,2009-06-17 00:00:00,DEPOMED INC,Prescription,False,-,-,-,-,False,False,-
+5126,CABOMETYX,208692,NDA,2016-04-25 00:00:00,EXELIXIS INC,Prescription,False,-,-,-,-,False,False,-
+5171,EXFORGE,21990,NDA,2007-06-20 00:00:00,NOVARTIS,Prescription,False,-,-,-,-,False,False,-
+5183,EVZIO,209862,NDA,2016-10-19 00:00:00,KALEO INC,Prescription,False,-,-,-,-,False,False,-
+5187,EVOMELA,207155,NDA,2016-03-10 00:00:00,SPECTRUM PHARMS,Prescription,False,-,-,-,-,False,False,-
+5361,ESOMEPRAZOLE STRONTIUM,202342,NDA,2013-08-06 00:00:00,HANMI PHARM CO LTD,Prescription,False,-,-,-,-,False,False,-
+5367,ESMOLOL HYDROCHLORIDE IN PLASTIC CONTAINER,205703,NDA,2016-04-07 00:00:00,HQ SPCLT PHARMA,Prescription,False,-,-,-,-,False,False,-
+5374,ESMOLOL HYDROCHLORIDE DOUBLE STRENGTH IN PLASTIC CONTAINER,205703,NDA,2016-04-07 00:00:00,HQ SPCLT PHARMA,Prescription,False,-,-,-,-,False,False,-
+5622,EPANED,208686,NDA,2016-09-20 00:00:00,SILVERGATE PHARMS,Prescription,False,-,-,-,-,False,False,-
+5623,ENVARSUS XR,206406,NDA,2015-07-10 00:00:00,VELOXIS PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+5732,ELOXATIN,21759,NDA,2005-01-31 00:00:00,SANOFI AVENTIS US,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021759s000TOC.cfm,False,False,False,False,False,-
+5841,E-Z-HD,208036,NDA,2016-01-11 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+6342,DOCEFREZ,22534,NDA,2011-05-03 00:00:00,SUN PHARMA GLOBAL,Prescription,False,-,-,-,-,False,False,-
+6350,DOCETAXEL,22234,NDA,2011-03-08 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+6587,DIOVAN,21283,NDA,2001-07-18 00:00:00,NOVARTIS,Prescription,False,-,-,-,-,True,False,-
+7127,DEXILANT SOLUTAB,208056,NDA,2016-01-26 00:00:00,TAKEDA PHARMS USA,Prescription,False,-,-,-,-,False,False,-
+7280,DESVENLAFAXINE,204150,NDA,2013-03-04 00:00:00,ALEMBIC PHARMS LTD,Prescription,False,-,-,-,-,False,False,-
+7292,DESVENLAFAXINE,204150,NDA,2013-03-04 00:00:00,ALEMBIC PHARMS LTD,Prescription,False,-,-,-,-,False,False,-
+7379,DESCOVY,208215,NDA,2016-04-04 00:00:00,GILEAD SCIENCES INC,Prescription,False,-,-,-,-,False,False,-
+7505,DAUNORUBICIN HYDROCHLORIDE,50731,NDA,1998-01-30 00:00:00,WEST-WARD PHARMS INT,Prescription,False,-,-,-,-,False,False,-
+7579,FYCOMPA,208277,NDA,2016-04-29 00:00:00,EISAI INC,Prescription,False,-,-,-,-,False,False,-
+8135,FLUDARABINE PHOSPHATE,22137,NDA,2007-09-21 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022137_fludarabine_toc.cfm,False,False,False,False,False,-
+8642,GONITRO,208424,NDA,2016-06-08 00:00:00,POHL BOSKAMP,Prescription,False,-,-,-,-,False,False,-
+8726,GLUCAGON,20928,NDA,1998-09-11 00:00:00,LILLY,Prescription,False,-,-,-,-,False,False,-
+8732,GLUCAGON,20928,NDA,1998-09-11 00:00:00,LILLY,Prescription,False,-,-,-,-,False,False,-
+8778,GLEEVEC,21588,NDA,2003-04-18 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/021588s000_GleevecTOC.cfm,False,True,False,True,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-335s003_21-588s001_Gleevec.cfm
+9361,INVOKAMET XR,205879,NDA,2016-09-20 00:00:00,JANSSEN PHARMS,Prescription,False,-,-,-,-,False,False,-
+9412,INFUVITE PEDIATRIC (PHARMACY BULK PACKAGE),21646,NDA,2004-01-29 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021646s000_Influvite_PediatricTOC.cfm,False,False,False,False,False,-
+9415,INFUVITE ADULT,21559,NDA,2003-06-16 00:00:00,SANDOZ,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-559_Infuvite.cfm,False,False,False,False,False,-
+9479,INDOMETHACIN,22536,NDA,2010-03-17 00:00:00,FRESENIUS KABI USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/022536_indomethacin_toc.cfm,False,False,True,False,False,-
+10016,HYDROMORPHONE HYDROCHLORIDE,200403,NDA,2011-12-01 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+10702,"HELIUM, USP",206826,NDA,2014-03-04 00:00:00,LINDE GAS NORTH AMERICA LLC,Prescription,False,-,-,-,-,False,False,-
+10703,"HELIUM, USP",206026,NDA,2013-09-07 00:00:00,AIR LIQUIDE HEALTHCARE AMERICA CORP,Prescription,False,-,-,-,-,False,False,-
+10704,"HELIUM, USP",205912,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION INC,Prescription,False,-,-,-,-,False,False,-
+10705,"HELIUM, USP",205911,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION MID-ATLANTIC LLC,Prescription,False,-,-,-,-,False,False,-
+10706,"HELIUM, USP",205864,NDA,2013-07-23 00:00:00,AIR PRODUCTS AND CHEMICALS INC,Prescription,False,-,-,-,-,False,False,-
+10707,"HELIUM, USP",205851,NDA,2015-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+10708,"HELIUM, USP",205843,NDA,2013-07-20 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+10709,"HELIUM, USP",205819,NDA,2013-07-14 00:00:00,NORCO INC,Prescription,False,-,-,-,-,False,False,-
+10985,KYLEENA,208224,NDA,2016-09-16 00:00:00,BAYER HLTHCARE,Prescription,False,-,-,-,-,False,False,-
+10994,KOVANAZE,208032,NDA,2016-06-29 00:00:00,ST RENATUS,Prescription,False,-,-,-,-,False,False,-
+11012,KITABIS PAK,205433,NDA,2014-12-02 00:00:00,PULMOFLOW INC,Prescription,False,-,-,-,-,False,False,-
+11193,JENTADUETO XR,208026,NDA,2016-05-27 00:00:00,BOEHRINGER INGELHEIM,Prescription,False,-,-,-,-,False,False,-
+11205,JALYN,22460,NDA,2010-06-14 00:00:00,GLAXOSMITHKLINE,Prescription,False,-,-,-,-,False,False,-
+11412,MORPHINE SULFATE,22207,NDA,2008-03-17 00:00:00,ROXANE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022195_022207_morphine_toc.cfm,False,False,True,False,False,-
+11698,MIDOL LIQUID GELS,21472,NDA,2002-10-18 00:00:00,BIONPHARMA INC,Over-the-counter,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-472_Ibuprofen.cfm,False,False,False,False,False,-
+12758,"MEDICAL GAS, USP",207114,NDA,2014-05-12 00:00:00,AMERICAN WELDING AND GAS INC,Prescription,False,-,-,-,-,False,False,-
+12759,"MEDICAL AIR, USP",207036,NDA,2014-04-22 00:00:00,CEE KAY SUPPLY,Prescription,False,-,-,-,-,False,False,-
+12760,"MEDICAL AIR, USP",205999,NDA,2013-09-01 00:00:00,ACETYLENE OXYGENE CO,Prescription,False,-,-,-,-,False,False,-
+12761,"MEDICAL AIR, USP",205992,NDA,2013-08-31 00:00:00,UNITED STATES WELDING INC,Prescription,False,-,-,-,-,False,False,-
+12762,"MEDICAL AIR, USP",205910,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION MID-ATLANTIC LLC,Prescription,False,-,-,-,-,False,False,-
+12763,"MEDICAL AIR, USP",205909,NDA,2013-08-05 00:00:00,PRAXAIR DISTRIBUTION INC,Prescription,False,-,-,-,-,False,False,-
+12764,"MEDICAL AIR, USP",205890,NDA,2015-07-30 00:00:00,MATHESON TRI-GAS INC,Prescription,False,-,-,-,-,False,False,-
+12765,"MEDICAL AIR, USP",205859,NDA,2013-07-23 00:00:00,NEXAIR,Prescription,False,-,-,-,-,False,False,-
+12766,"MEDICAL AIR, USP",205847,NDA,2013-07-20 00:00:00,OXARC INC,Prescription,False,-,-,-,-,False,False,-
+12767,"MEDICAL AIR, USP",205828,NDA,2013-07-13 00:00:00,AIR LIQUIDE AMERICA LP,Prescription,False,-,-,-,-,False,False,-
+12768,"MEDICAL AIR, USP",205826,NDA,2013-07-15 00:00:00,DUPUY OXYGEN,Prescription,False,-,-,-,-,False,False,-
+12769,"MEDICAL AIR, USP",205821,NDA,2013-07-14 00:00:00,SCOTT-GROSS COMPANY,Prescription,False,-,-,-,-,False,False,-
+12770,"MEDICAL AIR, USP",205809,NDA,2013-07-14 00:00:00,WESTAIR GASES & EQUIPMENT INC,Prescription,False,-,-,-,-,False,False,-
+12771,"MEDICAL AIR, USP",205804,NDA,2013-07-14 00:00:00,"PURITY CYLINDER GASES, INC",Prescription,False,-,-,-,-,False,False,-
+12772,"MEDICAL AIR, USP",205796,NDA,2013-07-13 00:00:00,MACHINE & WELDING SUPPLY CO,Prescription,False,-,-,-,-,False,False,-
+12773,"MEDICAL AIR, USP",205765,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+12774,"MEDICAL AIR, USP",205711,NDA,2013-06-06 00:00:00,AIR LIQUIDE AMERICA SPECIALITY GASES,Prescription,False,-,-,-,-,False,False,-
+12775,"MEDICAL GAS, USP",205845,NDA,2013-07-20 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+12776,"MEDICAL GAS, USP",205803,NDA,2013-07-14 00:00:00,"WYNN L MADER, INDUSTRIAL GAS DISTRIBUTORS",Prescription,False,-,-,-,-,False,False,-
+12926,MAGNEVIST,21037,NDA,2000-03-10 00:00:00,BAYER HLTHCARE,Prescription,False,-,-,-,-,False,False,-
+12951,M.V.I. ADULT (PHARMACY BULK PACKAGE),21643,NDA,2004-02-18 00:00:00,HOSPIRA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/021643s000_MVI_AdultTOC.cfm,False,False,False,False,False,-
+13385,LINEZOLID IN SODIUM CHLORIDE 0.9% IN PLASTIC CONTAINER,206473,NDA,2015-06-18 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+13621,LEVOLEUCOVORIN CALCIUM,208723,NDA,2016-09-29 00:00:00,ACTAVIS LLC,Prescription,False,-,-,-,-,False,False,-
+13941,LARTRUVO,761038,BLA,2016-10-19 00:00:00,ELI LILLY AND CO,Prescription,False,-,-,-,-,False,False,-
+13958,LANSOPRAZOLE,208025,NDA,2016-06-07 00:00:00,DEXCEL PHARMA,Over-the-counter,False,-,-,-,-,False,False,-
+14053,LAMIVUDINE; ZIDOVUDINE,22296,NDA,2009-07-23 00:00:00,AUROBINDO PHARMA LTD,None (Tentative Approval),False,-,-,-,-,False,False,-
+14065,LAMIVUDINE; ZIDOVUDINE,22296,NDA,2009-07-23 00:00:00,AUROBINDO PHARMA LTD,None (Tentative Approval),False,-,-,-,-,False,False,-
+14240,"OXYGEN, USP",206023,NDA,2013-09-07 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+14241,"OXYGEN, USP",205986,NDA,2013-08-27 00:00:00,PRAXAIR CANADA INC,Prescription,False,-,-,-,-,False,False,-
+14242,"OXYGEN, USP",205889,NDA,2015-07-30 00:00:00,MATHESON TRI-GAS INC,Prescription,False,-,-,-,-,False,False,-
+14243,"OXYGEN, USP",205865,NDA,2013-07-23 00:00:00,AIR PRODUCTS AND CHEMICALS INC,Prescription,False,-,-,-,-,False,False,-
+14244,"OXYGEN, USP",205862,NDA,2013-07-23 00:00:00,ASPEN AIR,Prescription,False,-,-,-,-,False,False,-
+14245,"OXYGEN, USP",205849,NDA,2013-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+14246,"OXYGEN, USP",205840,NDA,2013-07-16 00:00:00,AIRGAS MERCHANTS GASES LLC,Prescription,False,-,-,-,-,False,False,-
+14247,"OXYGEN, USP",205827,NDA,2013-07-13 00:00:00,AIR LIQUIDE AMERICA LP,Prescription,False,-,-,-,-,False,False,-
+14248,"OXYGEN, USP",205820,NDA,2013-07-14 00:00:00,NORCO INC,Prescription,False,-,-,-,-,False,False,-
+14249,"OXYGEN, USP",205818,NDA,2013-07-05 00:00:00,LINDE GAS PUERTO RICO INC,Prescription,False,-,-,-,-,False,False,-
+14250,"OXYGEN, USP",205817,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+14251,"OXYGEN, USP",205767,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+14252,"OXYGEN, USP",205737,NDA,2013-06-16 00:00:00,AIR LIQUIDE LARGE INDUSTRIES US LP,Prescription,False,-,-,-,-,False,False,-
+14253,"OXYGEN, USP",205713,NDA,2013-06-16 00:00:00,AIR LIQUID INDUSTRIAL US LP,Prescription,False,-,-,-,-,False,False,-
+14254,"OXYGEN, USP",205712,NDA,2013-06-16 00:00:00,AIR LIQUID INDUSTRIAL US LP,Prescription,False,-,-,-,-,False,False,-
+14281,OXYCODONE HYDROCHLORIDE,200535,NDA,2010-10-20 00:00:00,LEHIGH VALLEY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/200535s000_oxycodone_toc.cfm,False,False,True,False,False,-
+14284,OXYCODONE HYDROCHLORIDE,200534,NDA,2010-10-20 00:00:00,LEHIGH VALLEY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/200534s000_oxycodone_toc.cfm,False,False,True,False,False,-
+14358,Oxybutynin Chloride,78293,NDA,2007-05-10 00:00:00,MYLAN PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+14472,OXALIPLATIN,22160,NDA,2009-08-07 00:00:00,TEVA PHARMS,Prescription,False,-,-,-,-,False,False,-
+14485,OTOVEL,208251,NDA,2016-04-29 00:00:00,LABORATORIOS SALVAT,Prescription,False,-,-,-,-,False,False,-
+14567,ORFADIN,206356,NDA,2016-04-22 00:00:00,SWEDISH ORPHAN,Prescription,False,-,-,-,-,False,False,-
+14775,OMEPRAZOLE,22032,NDA,2007-12-04 00:00:00,DEXCEL PHARMA,Over-the-counter,False,-,-,-,-,False,False,-
+14884,ODEFSEY,208351,NDA,2016-03-01 00:00:00,GILEAD SCIENCES INC,Prescription,False,-,-,-,-,False,False,-
+15060,NORVIR,20945,NDA,1999-06-29 00:00:00,ABBVIE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/20-945_Ritonovir.cfm,False,False,False,True,False,-
+15232,"NITROUS OXIDE, USP",208069,NDA,2014-11-25 00:00:00,STRATA MEDICAL INNOVATIONS,Prescription,False,-,-,-,-,False,False,-
+15234,"NITROUS OXIDE, USP",206014,NDA,2013-09-06 00:00:00,NITROUS OXIDE OF CANADA,Prescription,False,-,-,-,-,False,False,-
+15238,"NITROUS OXIDE, USP",206009,NDA,2013-09-03 00:00:00,NITROUS OXIDE CORP,Prescription,False,-,-,-,-,False,False,-
+15275,"NITROGEN, NF",206024,NDA,2013-09-07 00:00:00,AIRGAS USA LLC,Prescription,False,-,-,-,-,False,False,-
+15276,"NITROGEN, NF",205985,NDA,2013-08-27 00:00:00,PRAXAIR CANADA INC,Prescription,False,-,-,-,-,False,False,-
+15277,"NITROGEN, NF",205891,NDA,2013-07-30 00:00:00,MATHESON TRI-GAS INC,Prescription,False,-,-,-,-,False,False,-
+15278,"NITROGEN, NF",205866,NDA,2013-07-23 00:00:00,AIR PRODUCTS AND CHEMICALS INC,Prescription,False,-,-,-,-,False,False,-
+15279,"NITROGEN, NF",205863,NDA,2013-07-23 00:00:00,ASPEN AIR,Prescription,False,-,-,-,-,False,False,-
+15280,"NITROGEN, NF",205850,NDA,2013-07-21 00:00:00,PRAXAIR INC,Prescription,False,-,-,-,-,False,False,-
+15281,"NITROGEN, NF",205839,NDA,2013-07-16 00:00:00,AIRGAS MERCHANTS GASES LLC,Prescription,False,-,-,-,-,False,False,-
+15282,"NITROGEN, NF",205829,NDA,2013-07-13 00:00:00,AIR LIQUIDE AMERICA LP,Prescription,False,-,-,-,-,False,False,-
+15283,"NITROGEN, NF",205816,NDA,2013-07-05 00:00:00,LINDE GAS PUERTO RICO INC,Prescription,False,-,-,-,-,False,False,-
+15284,"NITROGEN, NF",205805,NDA,2013-07-14 00:00:00,NORCO INC,Prescription,False,-,-,-,-,False,False,-
+15285,"NITROGEN, NF",205766,NDA,2013-07-05 00:00:00,LINDE NORTH AMERICA INC,Prescription,False,-,-,-,-,False,False,-
+15286,"NITROGEN, NF",205738,NDA,2015-06-23 00:00:00,AIR LIQUIDE LARGE INDUSTRIES US LP,Prescription,False,-,-,-,-,False,False,-
+15344,"NITRIOUS OXIDE, USP",205704,NDA,2013-06-16 00:00:00,AIR LIQUIDE AMERICA SPECIALITY GASES,Prescription,False,-,-,-,-,False,False,-
+15443,NICARDIPINE HYDROCHLORIDE,78405,NDA,2009-11-17 00:00:00,SUN PHARMA GLOBAL,Prescription,False,-,-,-,-,False,False,-
+15510,NEURONTIN,21129,NDA,2000-03-02 00:00:00,PARKE DAVIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-129_Neurontin.cfm,False,False,False,False,False,-
+15992,PROVAYBLUE,204630,NDA,2016-04-08 00:00:00,PROVEPHARM SAS,Prescription,False,-,-,-,-,False,False,-
+16591,PROBUPHINE,204442,NDA,2016-05-26 00:00:00,BRAEBURN PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+16602,PROAIR RESPICLICK,205636,NDA,2015-03-31 00:00:00,TEVA BRANDED PHARM,Prescription,False,-,-,-,-,False,False,-
+16629,PRIMSOL,74973,NDA,2000-01-24 00:00:00,AYTU BIOSCIENCE INC,Prescription,False,-,-,-,-,False,False,-
+16667,PREVACID,21428,NDA,2002-08-30 00:00:00,TAKEDA PHARMS USA,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21428_20406s052_21281s007_PrevacidTOC.cfm,False,False,False,True,False,-
+17176,POTASSIUM CHLORIDE,206814,NDA,2014-12-22 00:00:00,PHARMA-MED INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/206814Orig1s000TOC.cfm,False,False,True,False,False,-
+17373,PHOTREXA,203324,NDA,2016-07-15 00:00:00,AVEDRO INC,Prescription,False,-,-,-,-,False,False,-
+17374,PHOTREXA,203324,NDA,2016-07-15 00:00:00,AVEDRO INC,Prescription,False,-,-,-,-,False,False,-
+17615,PEXEVA,21299,NDA,2003-07-03 00:00:00,SEBELA IRELAND LTD,Prescription,False,-,-,-,-,False,False,-
+17697,PERFOROMIST,22007,NDA,2007-05-11 00:00:00,MYLAN SPECLT,Prescription,False,-,-,-,-,False,False,-
+17841,PEGINTERFERON,125083,BLA,2004-06-04 00:00:00,HOFFMAN-LA ROCHE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/125083_peginterferon_toc.cfm,False,False,False,False,False,-
+18002,PAMIDRONATE DISODIUM,21113,NDA,2002-03-04 00:00:00,WEST-WARD PHARMS INT,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-113_Pamidronate.cfm,False,False,False,False,False,-
+18003,PALONOSETRON HYDROCHLORIDE,207963,NDA,2016-08-22 00:00:00,EXELA PHARMA SCIENCE,Prescription,False,-,-,-,-,False,False,-
+18007,PALONOSETRON HYDROCHLORIDE,203050,NDA,2016-03-01 00:00:00,DR REDDYS LABS LTD,Prescription,False,-,-,-,-,False,False,-
+18043,RUBY-FILL,202153,NDA,2016-09-30 00:00:00,JUBILANT DRAXIMAGE,Prescription,False,-,-,-,-,False,False,-
+18061,ROSUVASTATIN ZINC,202172,NDA,2016-02-12 00:00:00,WATSON LABS INC,None (Tentative Approval),False,-,-,-,-,False,False,-
+18244,RIOMET,21591,NDA,2003-09-11 00:00:00,SUN PHARM INDS LTD,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-591_Riomet.cfm,False,False,False,False,False,-
+18424,RENAGEL,21179,NDA,2000-07-12 00:00:00,GENZYME,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-179_Renagel.cfm,False,False,False,False,False,-
+18429,RELISTOR,208271,NDA,2016-07-19 00:00:00,SALIX PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+18453,READI-CAT 2 SMOOTHIES,208143,NDA,2016-01-15 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+18454,READI-CAT 2,208143,NDA,2016-01-15 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+18459,RAYALDEE,208010,NDA,2016-06-17 00:00:00,OPKO IRELAND GLOBAL,Prescription,False,-,-,-,-,False,False,-
+18735,QBRELIS,208401,NDA,2016-07-29 00:00:00,SILVERGATE PHARMS,Prescription,False,-,-,-,-,False,False,-
+18748,SYNERCID,50747,NDA,1999-09-21 00:00:00,KING PHARMS,Prescription,False,-,-,-,-,False,False,-
+18750,SYNERCID,50747,NDA,1999-09-21 00:00:00,KING PHARMS,Prescription,False,-,-,-,-,False,False,-
+18752,SYNDROS,205525,NDA,2016-07-01 00:00:00,INSYS DEV CO INC,Prescription,False,-,-,-,-,False,False,-
+18775,SUSTOL,22445,NDA,2016-08-09 00:00:00,HERON THERAPS INC,Prescription,False,-,-,-,-,False,False,-
+18777,SUSTIVA,20972,NDA,1998-09-17 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/20972.cfm,False,True,False,False,False,-
+18902,SULFAMYLON,19832,NDA,1998-06-05 00:00:00,MYLAN INSTITUTIONAL,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/98/19832.cfm,False,False,False,False,False,-
+19067,STELARA,761044,BLA,2016-09-23 00:00:00,JANSSEN BIOTECH,Prescription,False,-,-,-,-,False,False,-
+19240,SODIUM THIOSULFATE,203923,NDA,2012-02-14 00:00:00,HOPE PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203923_sodium_thiosulfate_toc.cfm,False,False,True,False,False,-
+19291,SODIUM NITRITE,203922,NDA,2012-02-14 00:00:00,HOPE PHARMS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203922_sodium_nitrite_toc.cfm,False,False,True,False,False,-
+19400,SMOFLIPID 20%,207648,NDA,2016-07-13 00:00:00,FRESENIUS KABI USA,Prescription,False,-,-,-,-,False,False,-
+19464,SIMPONI ARIA,125433,BLA,2013-07-18 00:00:00,JANSSEN BIOTECH,Prescription,False,-,-,-,-,False,False,-
+19554,SERNIVO,208079,NDA,2016-02-05 00:00:00,PROMIUS PHARMA LLC,Prescription,False,-,-,-,-,False,False,-
+19619,SEEBRI,207923,NDA,2015-10-29 00:00:00,NOVARTIS PHARMS CORP,Prescription,False,-,-,-,-,False,False,-
+19772,ULTRAVIST (PHARMACY BULK),21425,NDA,2002-09-20 00:00:00,BAYER HLTHCARE,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/021425_ultravist.cfm,False,False,False,False,False,-
+19794,UCERIS,205613,NDA,2014-10-07 00:00:00,VALEANT PHARMS INTL,Prescription,False,-,-,-,-,False,False,-
+19846,TROXYCA ER,207621,NDA,2016-08-19 00:00:00,PFIZER INC,Prescription,False,-,-,-,-,False,False,-
+19870,TROKENDI XR,201635,NDA,2013-08-16 00:00:00,SUPERNUS PHARMS,Prescription,False,-,-,-,-,False,False,-
+19969,TRILEPTAL,21285,NDA,2001-05-25 00:00:00,NOVARTIS,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2001/21-285_Trileptal.cfm,False,True,False,True,False,-
+21213,TECENTRIQ,761041,BLA,2016-10-18 00:00:00,GENENTECH INC,Prescription,False,-,-,-,-,False,False,-
+21355,VOGELXO,204399,NDA,2014-06-04 00:00:00,UPSHER-SMITH LABS,Prescription,False,-,-,-,-,False,False,-
+21495,VIMPAT,22255,NDA,2010-04-20 00:00:00,UCB INC,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/022255_vimpat_toc.cfm,False,False,True,False,False,-
+21504,VIEKIRA XR,208624,NDA,2016-07-22 00:00:00,ABBVIE INC,Prescription,False,-,-,-,-,False,False,-
+21508,VIDEX EC,21183,NDA,2000-10-31 00:00:00,BRISTOL MYERS SQUIBB,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-183_Videx.cfm,False,True,False,True,False,-
+21538,VIAGRA,20895,NDA,1998-03-27 00:00:00,PFIZER IRELAND,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/NDA/98/viagra/viagra_toc.cfm,False,True,False,False,False,-
+21560,VERMOX,208398,NDA,2016-10-19 00:00:00,JANSSEN PHARMS,Prescription,False,-,-,-,-,False,False,-
+21726,VARIBAR PUDDING,208844,NDA,2016-10-14 00:00:00,BRACCO,Prescription,False,-,-,-,-,False,False,-
+21931,YOSPRALA,205103,NDA,2016-09-14 00:00:00,ARALEZ PHARMS,Prescription,False,-,-,-,-,False,False,-
+21969,XTAMPZA ER,208090,NDA,2016-04-26 00:00:00,COLLEGIUM PHARM INC,Prescription,False,-,-,-,-,False,False,-
+21995,XELJANZ XR,208246,NDA,2016-02-23 00:00:00,PFIZER INC,Prescription,False,-,-,-,-,False,False,-
+22021,ZYPREXA ZYDIS,21086,NDA,2000-04-06 00:00:00,LILLY,Prescription,True,http://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/21-086_ZyprexaZydis.cfm,False,False,False,False,False,-
+22058,ZOSYN IN PLASTIC CONTAINER,50750,NDA,1998-02-24 00:00:00,WYETH PHARMS INC,Prescription,False,-,-,-,-,False,False,-
+22148,ZOLEDRONIC ACID,204016,NDA,2015-12-28 00:00:00,HOSPIRA INC,Prescription,False,-,-,-,-,False,False,-
+22150,ZOLEDRONIC ACID,203231,NDA,2013-08-02 00:00:00,ACS DOBFAR INFO SA,Prescription,False,-,-,-,-,False,False,-
+22183,ZOFRAN ODT,20781,NDA,1999-01-27 00:00:00,NOVARTIS PHARMS CORP,Prescription,False,-,-,-,-,False,False,-
+22208,ZINPLAVA,761046,BLA,2016-10-21 00:00:00,MERCK SHARP DOHME,Prescription,False,-,-,-,-,False,False,-
+22252,ZEMBRACE SYMTOUCH,208223,NDA,2016-01-28 00:00:00,DR REDDYS LABS LTD,Prescription,False,-,-,-,-,False,False,-
