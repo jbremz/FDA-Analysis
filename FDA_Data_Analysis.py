@@ -65,9 +65,12 @@ pre_98_sum = pre_98[(pre_98.sumReviewAvailable == 'False') | (pre_98.reviewAvail
 #POST-1998
 post_98 = iDs[iDs['approvDate'] >= pd.to_datetime('1998')]
 
+post_98_eith = post_98[(post_98.sumReviewAvailable == 'False') | (post_98.statReviewAvailable == 'False') | (post_98.medReviewAvailable == 'False') | (post_98.reviewAvailable == 'False')]
+
 post_98_med = post_98[(post_98.medReviewAvailable == 'False') | (post_98.reviewAvailable == 'False')] #Med-reviews unavailable
 post_98_stat = post_98[(post_98.statReviewAvailable == 'False') | (post_98.reviewAvailable == 'False')] #Stat-reviews unavailable
 post_98_sum = post_98[(post_98.sumReviewAvailable == 'False') | (post_98.reviewAvailable == 'False')] #Sum-reviews unavailable
+
 
 #proportion of reviews available by year
 #iDs.propRevAv_yr.plot(kind="bar")

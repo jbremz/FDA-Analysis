@@ -13,7 +13,7 @@ for letter in alpha: #populate start urls list with each letter page
 test_urlList = ["http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchResults_Browse&StepSize=100&DrugInitial=B"]
         
 class FDASpider4(BaseSpider):
-    name = "FDASpider4"
+    name = "FDASpider"
     allowed_domains = ["www.accessdata.fda.gov"]
     start_urls = start_urlList
     drugListMaster = []
@@ -341,7 +341,7 @@ class FDASpider4(BaseSpider):
 
 
                 
-#scrapy crawl FDASpider4 -o masterDrugList.csv -t csv
+#scrapy crawl FDASpider -o masterDrugList.csv -t csv
 #http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Overview&amp;DrugName=PENICILLIN%20V%20POTASSIUM
 #//*[@id="user_provided"]/div[1]/table[2]/tbody/tr/td/table/tbody/tr[4]/td[2]/ul/li[.]/a
 #'dont_redirect': True,'handle_httpstatus_list': [302],
