@@ -6,10 +6,10 @@ There were suspicions that the site was missing a vast number of these reports, 
 
 This project contains all of the code used to scrape the data from the (now retired) Drugs@FDA site and analyse it.
 
-FDA Spider --> Contains scrapy project for the scraping of drug application data from the Drugs@FDA site, the main spider was FDASpider
+**FDA Spider** --> Contains scrapy project for the scraping of drug application data from the Drugs@FDA site, the main spider was FDASpider
 
-masterDrugList2.csv --> The outputted csv file from FDASpider containing the raw drug application data
+**masterDrugList2.csv** --> The outputted csv file from FDASpider containing the raw drug application data
 
-FDA_Data_Analysis.py --> Analysis of masterDrugList2.csv using pandas
+**FDA_Data_Analysis.py** --> Analysis of masterDrugList2.csv using pandas
 
-Drugs@FDA Analysis.ipynb --> A jupyter notebook containing a rough summary of the analysis and conclusions
+**Drugs@FDA Analysis.ipynb** --> A jupyter notebook containing a rough summary of the analysis and conclusions
