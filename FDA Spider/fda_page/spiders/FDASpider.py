@@ -26,7 +26,7 @@ class FDASpider4(BaseSpider):
         """
 
         for url in self.start_urls:
-            yield Request(url, callback=self.parseDrugList, dont_filter=True)
+            yield Request(url, callback=self.parseDrugList, dont_filter=True) # Don't filter duplicate urls because the Drugs@FDA site doesn't have unique urls
 
 
 
@@ -93,7 +93,7 @@ class FDASpider4(BaseSpider):
                     
         if len(links) == 0: #if page is already 'sub drug' page -> go straight to parseSubDrugPage 
             appNo = hxs.xpath('//tr[2]/td[2]/strong/text()').extract()[0].split()[1] # WARNING - sometimes gives 'out of range' error
-            yield Request(url, callback=self.parseSubDrugPage, meta={'url':url, 'cookiejar':appNo}, dont_filter=True) #new cookiejar here labelled by application number
+            yield Request(url, callback=self.parseSubDrugPage, meta={'url':url, 'cookiejar':appNo}, dont_filter=True) #new cookiejar here labelled by application number because of lack of unique urls
     
     def parseSubDrugPage(self, response):
         """
